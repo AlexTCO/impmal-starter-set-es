@@ -1,0 +1,1490 @@
+{
+  "label": "Tablas (Starter Set)",
+  "folders": {
+    "Astra Militarum Personae": "Personajes del Astra Militarum",
+    "Imperium Technobabble": "Tecnobabla del Imperio",
+    "Infractionist Personae": "Personajes Infraccionistas",
+    "Macharian Miscellanea Tables": "Tablas de Miscelánea Macharia",
+    "Imperial Navy Personae": "Personajes de la Armada Imperial",
+    "Adeptus Mechanicus Personae": "Personajes del Adeptus Mechanicus",
+    "Adeptus Ministorum Personae": "Personajes del Adeptus Ministorum",
+    "Inquisition Personae": "Personajes de la Inquisición",
+    "Administratum Personae": "Personajes del Administratum",
+    "Whispers": "Rumores",
+    "Noble Title": "Título Noble",
+    "Adeptus Astra Telepathica Personae": "Personajes del Adeptus Astra Telepathica",
+    "Imperium Descriptors": "Descriptores del Imperio",
+    "Macharian Voidship Names Tables": "Tablas de Nombres de Naves del Vacío Macharias",
+    "Rogue Trader Dynasty Personae": "Personajes de la Dinastía Rogue Trader",
+    "Administratum Paperwork": "Papeleo del Administratum",
+    "GM Booklet": "Libreta del DJ"
+  },
+  "entries": {
+    "Adeptus Astra Telepathica Personae - Role": {
+      "name": "Personajes del Adeptus Astra Telepathica - Roles",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Adepto",
+        "2-2": "Astropata",
+        "3-3": "Blank",
+        "4-4": "Neónato",
+        "5-5": "Instructor",
+        "6-6": "Psíquico Sancionado",
+        "7-7": "Erudito",
+        "8-8": "Buscador",
+        "9-9": "Teomante",
+        "10-10": "Viajero del Vacío"
+      }
+    },
+    "Adeptus Astra Telepathica Personae - Mannerism": {
+    "name": "Personajes del Adeptus Astra Telepathica - Manierismo",
+      "description": "<p>Manierismo</p>",
+      "results": {
+        "1-1": "Tiende a levitar cuando se emociona.",
+        "2-2": "Grita aleatoriamente y se agarra la cabeza.",
+        "3-3": "Muestra un miedo irracional a los Servo-Cráneos.",
+        "4-4": "Senil y distraído, cree que los personajes son viejos amigos.",
+        "5-5": "Hace gestos supersticiosos de protección cada vez que se menciona el Warp.",
+        "6-6": "Alza el cráneo dorado de un psíquico del pasado, tratándolo como a una mascota querida.",
+        "7-7": "Les sale humo de los ojos (o las cuencas) en presencia de iconografía religiosa.",
+        "8-8": "Su presencia hace parpadear las luces y tambalearse a los Servo-Cráneos cercanos.",
+        "9-9": "Hace contacto visual con cosas que nadie más puede ver — que no están realmente ahí.",
+        "10-10": "Ocasionalmente suena como si más de una voz saliera de su garganta."
+      }
+    },
+    "Psychic Visions": {
+      "name": "Visiones Psíquicas",
+      "description": "<p>Visiones Psíquicas</p>",
+      "results": {
+        "1-5": "Nubes plateadas se abren en un cielo oscuro; el rostro dorado del Emperador te contempla.",
+        "6-10": "Un martillo grabado con el Águila Imperial rompe las cadenas que te aprisionan.",
+        "11-15": "El Santo Macharius te guía hacia un bosque retorcido. Tala el bosque a tu alrededor.",
+        "16-20": "El ojo ardiente del Engranaje Mechanicus se alza como el sol sobre un mundo perdido.",
+        "21-25": "Ángeles descienden en alas de fuego — los fieles son llamados a la guerra, los impíos arden.",
+        "26-30": "Vientos aullantes te asaltan, purgando la impureza de ti — solo queda la luz.",
+        "31-35": "Ves a un solitario Guardián rezando mientras camina ileso entre una horda de demonios.",
+        "36-40": "Una catedrum arde hasta convertirse en cenizas, dejando un templo aún más grande en su lugar.",
+        "41-45": "Una serpiente inmunda de escamas multicolores muerde el talón de una mujer, mientras ella le clava una elegante lanza en la cabeza.",
+        "46-50": "Ángeles y demonios chocan en el cielo. La sangre cae como lluvia y un árbol muerto florece de nuevo.",
+        "51-55": "Perdido en un bosque oscuro de fuego y metal, sabes que un aspecto del Traidor te está cazando.",
+        "56-60": "8 ojos sin párpados te contemplan mientras tu carne se derrite de tus huesos.",
+        "61-65": "Un rápido brote surge de tu estómago. El árbol da balas en lugar de semillas.",
+        "66-70": "Estás atado a un poste; un horror de múltiples extremidades te azota con 7 látigos, cada uno 7 veces.",
+        "71-75": "Corres por un laberinto interminable de cristal centelleante, acosado por una risa cruel.",
+        "76-80": "El cielo se resquebraja y la oscuridad cae como lluvia, cegándote y asfixiándote.",
+        "81-85": "Estás en la cima de una montaña, contemplando cómo el mundo se pudre y se marchita rápidamente como fruta vieja.",
+        "86-90": "Gritas mientras tu alma se fragmenta en innumerables pedazos. Cada fragmento se convierte en un demonio.",
+        "91-95": "Te encuentras ante una magnífica tumba. Una luz funesta sale de su interior mientras una marchita mano muerta se extiende para apoderarse del mundo.",
+        "96-100": "¡No hay nada más que sangre! ¡Masacre! ¡Rabia ardiente y la risa de dioses sedientos! Sientes tanta sed como ellos."
+      }
+    },
+    "Bowels & Beyond Encounters": {
+      "name": "Encuentros en las Entrañas y Más Allá",
+      "description": "",
+      "results": {
+        "1-7": "Os encontráis en un espacio abierto cavernoso, aparentemente causado por lluvias ácidas. El sonido de mecanismos chirriantes resuena desde lo alto, y una lluvia de ácido cae, atrayendo a multitudes de miserables harapientos que miran hacia arriba con los ojos muy abiertos todo el tiempo que pueden soportar. Una mujer con túnicas grises en descomposición es aclamada por aguantar más que todos los demás. Una sola mirada revela que sus ojos son una masa de tejido costroso.",
+        "8-14": "Vuestro camino os lleva a través de un barrio de chabolas construido con los restos de varias manufactorums y catedrums en ruinas, dispuestas alrededor de un pasillo de habitáculos repleto de sucios puestos de mercado donde los miserables venden dudosos alimentos carroñados. Estalla una pelea entre dos bandas diferentes. Si los personajes toman partido y consiguen ganar la pelea, obtienen +1 de Influencia con la banda a la que ayudaron, pero −1 de Influencia con la otra.",
+        "15-21": "De repente, la tierra de abajo y la colmena de arriba tiemblan de forma asincrónica. Cada personaje debe superar una <b>Prueba de Reflejos (Esquivar) Desafiante (+0)</b> o caer @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ACFDnnnTqHPb4nV4#prone]{Derribado} y sufrir 1 Herida al ser golpeado por escombros que caen. Si alguno de los personajes falla la Prueba, un grupo de 6 @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi-knives]{Vylathi Knives} tiende una emboscada al grupo mientras se recupera, aprovechando el caos del temblor de la colmena. Si todos los personajes tienen éxito, los 6 @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi-knives]{Vylathi Knives} fracasan y piden ayuda al quedar atrapados bajo la arquitectura desplazada.",
+        "22-28": "El grupo se encuentra caminando junto a una lenta cola de miserables esperando atención médica del cirujano de una banda. Escucháis por casualidad cómo un desafortunado habitante de las @UUID[RollTable.3naaAiIZQcgzNpZL]{Entrañas} menciona que los pandilleros que custodian al cirujano les infligieron las heridas que ahora vienen a curar.",
+        "29-35": "Os encontráis perdidos en un laberinto de plasteel oxidado. Un hombre de ojos desorbitados os llama a gritos, afirmando que está atrapado en las @UUID[RollTable.3naaAiIZQcgzNpZL]{Entrañas} por un error burocrático. Lo demostrará y recompensará a los personajes si le escoltáis hasta la @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.9IPqIrShmqynKuZc]{Colmena Alta}. Depende de vosotros como Directores de Juego decidir si la historia de este hombre es verdad — para mayor dramatismo, podríais hacer que sea perseguido por este laberinto de metal por un escuadrón de @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{pandilleros}.",
+        "36-42": "Una comunidad de miserables ha convertido una ruina cercana en su hogar. Un mendigo ciego tropieza con los personajes e inmediatamente afirma que el grupo debe ser la respuesta a sus plegarias, ángeles enviados por el Emperador para brindar ayuda. Si los personajes dan al mendigo comida o solares, este correrá la voz por las @UUID[RollTable.3naaAiIZQcgzNpZL]{Entrañas}, lo que podría mejorar su reputación o, por el contrario, señalarlos como blancos fáciles.",
+        "43-49": "Un antiguo sanctum del @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} descansa entre los escombros y la oscuridad pantanosa, un oasis de luz en la pesadilla de las @UUID[RollTable.3naaAiIZQcgzNpZL]{Entrañas}. El sanctum alberga ahora un animado mercado que vende armas, munición y sustancias químicas de dudosa procedencia. Los personajes pueden comprar todo tipo de equipo de guerra aquí, aunque de calidad dudosa. Varios @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Vigiles Macharianos} observan este mercado usándolo como operación encubierta. Pueden rastrear a los personajes si compran algo, o lanzar una emboscada en cualquier momento.",
+        "50-56": "Mientras trepáis por un pasillo de habitáculos derrumbado, encontráis a una mujer furtiva sentada junto a una hoguera. Si os acercáis, pregunta si alguno de los personajes es 'Malat Vers', pero independientemente de vuestra respuesta, huye entre las ruinas desapareciendo por pasadizos aparentemente demasiado pequeños para ella.",
+        "57-63": "Tras navegar por una jungla de antiguos mecanismos oxidados y cimientos derrumbados, vuestro único camino adelante es un pantano fangoso del @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Vce7PdryqdGWxE0G#the-unsea]{Inmar}. Una mujer con un @UUID[Compendium.impmal-starter-set.items.Item.HkhEg8qCUV0oZxOt]{ojo augmético} mal ajustado está casi completamente sumergida en el barro y os pide ayuda a gritos. La mujer es miembro de la @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{banda de los Cortadores}, e intenta atraer a viajeros desprevenidos al pantano para que sus cómplices, cuatro @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{pandilleros}, puedan tenderles una emboscada.",
+        "64-70": "Junto a un oscuro pasillo de habitáculos de miserables, escucháis a un @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{pandillero} cercano expresar, entre improperios, sus dudas de que su cómplice con cicatrices de ácido haya visto realmente a un Gladiador Crono en el @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Vce7PdryqdGWxE0G#the-pit]{Foso}. El cómplice responde gruñendo que esa historia es más creíble que el rumor de que Valeria Castyx fue vista en @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Vce7PdryqdGWxE0G#thermal-warning]{Aviso Térmico}.",
+        "71-77": "Vuestro camino os lleva a través de un campo ligeramente bioluminiscente de hongos apestosos. Los personajes deben superar una <b>Prueba de Fortaleza Desafiante (+0)</b> o quedar @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ACFDnnnTqHPb4nV4#poisoned]{Envenenados} durante una hora mientras las asfixiantes esporas fúngicas obstruyen sus pulmones. Esto desencadenará un ataque de tos que atraerá a un siniestro contingente de @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Vigiles Macharianos} que buscan a alguien llamado 'Malat Vers'. Sospechan de por qué los personajes estarían en un lugar así.",
+        "78-84": "Mientras atravesáis un enredo de oxidadas tuberías industriales, os topáis con un colosal conducto destrozado por un temblor de la colmena. Los ocupantes ilegales han convertido este desastre en un ruidoso bar improvisado llamado 'El Derrame'. Aquí, los miserables destilan infames licores, y los @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{pandilleros} del @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#block-24-96]{Bloque 24-96} tienden emboscadas a los incautos.",
+        "85-91": "Mientras navegáis por lo que parece una amalgama de manufactorums derrumbadas, os topáis con un campamento desvencijado, apenas iluminado por un rayo de luz desde lo alto. En el centro de los vivacs hay una estatua corroída por el ácido de un Santo Imperial que parece haber caído en las @UUID[RollTable.3naaAiIZQcgzNpZL]{Entrañas}, y ahora es adorada por los pocos miserables armados que llaman hogar a este lugar.",
+        "92-98": "Mientras vuestro camino os lleva por un terreno pantanoso y una oscuridad impenetrable, tropezáis con un barco de pilotes naufragado en las orillas de un campo de tardígrados abandonado. Varios @UUID[Compendium.impmal-starter-set.actors.Actor.QqMWAzDuB4RbYFVm]{Ciudadanos Imperiales} famélicos se alimentan de tardígrados parcialmente podridos y viven dentro del naufragio.",
+        "99-100": "<p>Mientras recorréis un camino olvidado hace mucho tiempo entre antiguos pasajes de habitáculos sacudidos por temblores, escucháis un grupo de voces entonando un canto gutural y amenazador que emana de las antiguas ruinas de lo que pudo haber sido un santuario imperial hace siglos. Los sonidos de violencia brutal interrumpen el cántico.</p>  <p>Si los personajes investigan, encuentran siete @UUID[Compendium.impmal-starter-set.actors.Actor.DAQimD0ftESniInp]{Cultistas} vivos que adoran a @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.O9ywpWJIBMjj5GsS#cults-of-khorne]{Khorne} ocupando la profanada ruina, y un octavo tendido muerto en el suelo de rockcrete destrozado. Dos de los cultistas luchan a muerte en un charco de sangre mientras los demás cantan y observan. Independientemente de lo que hagan los personajes, deben superar una <b>Prueba de Disciplina Desafiante (+0)</b> para resistir 1 punto de @UUID[Compendium.impmal-core.journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corrupción}.</p>"
+      }
+    },
+    "Adeptus Astra Telepathica Personae - Distinguishing Feature": {
+      "name": "Personajes del Adeptus Astra Telepathica - Rasgo Distintivo",
+      "description": "<p>Rasgo Distintivo</p>",
+      "results": {
+        "1-1": "Ojos oscuros y sin vida, habiendo presenciado demasiado.",
+        "2-2": "Sus ojos son de un blanco lechoso, sin ningún rasgo.",
+        "3-3": "Inexplicable y visceralmente repugnante para tus sentidos.",
+        "4-4": "Los movimientos de su sombra no reflejan los de su cuerpo.",
+        "5-5": "Haberse arrancado los ojos en el pasado le ha dejado profundas cicatrices en el rostro.",
+        "6-6": "Una fina capa de escarcha aparece a varios metros de ellos.",
+        "7-7": "Una cadena simbólica está firmemente sujeta alrededor de sus ojos.",
+        "8-8": "Su rostro es más cable, tubo y disipador de cobre que carne mortal.",
+        "9-9": "Sin importar hacia dónde parezcan mirar, puedes sentir que te están observando.",
+        "10-10": "Su cabeza está encerrada en un yelmo con forma de Águila Imperial, remachado permanentemente."
+      }
+    },
+    "Imperium Technobabble - Second Descriptor": {
+      "name": "Tecnobabla del Imperio - Segundo Descriptor",
+      "description": "<p>Segundo Descriptor</p>",
+      "results": {
+        "1-1": "Augur",
+        "2-2": "Corpus",
+        "3-3": "Cyber",
+        "4-4": "Omni-",
+        "5-5": "Pattern",
+        "6-6": "Plasma",
+        "7-7": "Psyber",
+        "8-8": "Solar",
+        "9-9": "Synth",
+        "10-10": "Warp"
+      }
+    },
+    "Infractionist Personae - Attitude": {
+      "name": "Personajes Infraccionistas - Actitud",
+      "description": "<p>Actitud</p>",
+      "results": {
+        "1-1": "Demasiado confiado y fácilmente provocado a la violencia.",
+        "2-2": "Alerta, taciturno, sin paciencia para los que pierden el tiempo o los aficionados.",
+        "3-3": "Desconfía absolutamente de la autoridad imperial.",
+        "4-4": "No busca problemas, desea que le dejen en paz.",
+        "5-5": "De mal genio y despectivo, pero fácilmente intimidado por gente más fuerte o más aterradora.",
+        "6-6": "Catastrofista, que detesta a los Tech-Sacerdotes y a los impíos.",
+        "7-7": "Trabajador de turno largo, siempre cansado e impaciente por conseguir el descanso que tanto necesita.",
+        "8-8": "Obsequioso y adulador, dice lo que cree que la gente quiere escuchar.",
+        "9-9": "Le resulta incómodo hablar al descubierto, le gusta tener una pared a su espalda.",
+        "10-10": "Exige un concurso de fuerza; el resultado determina si será servicial o burlón."
+      }
+    },
+    "Hive Spire Whispers": {
+      "name": "Hive Spire Whispers",
+      "description": "<p><strong>Hive Spires:</strong> The most affluent and influential members of hive society dwell among the spires, mingling at the very uppermost levels of these towering metropolises. Seldom deigning to leave these peaks, the nobility dictates the actions and lives of those who live in the lower levels. All the while, they remain isolated in luxury, away from those they designate as their social inferiors. Their primary concern is a mix of their own desires — and what the Imperium requires, the Hive supplies them with. Petty betrayals, family squabbles, and superfluous drama are the crux of many rumours.</p>",
+      "results": {
+        "1-1": "<p><b>Renegade Activity:</b> “Oh yes, the captain of my  cousin’s Enforcers. Took a crack squad downhive  months ago and hasn’t been seen since, but we  know they’re still active. A delicious scandal!”</p>",
+        "2-2": "<p><b>Cult Activity:</b> “How dare he choose friends over  family! I can see it in his eyes, those parties must  be exquisite. Why would the Duchess invite him  over me? How unfair!”</p>",
+        "3-3": "<p><b>Xenos Tech:</b> “Our Baron likes to show off his  little curios to whoever he invites round for deals  or dinners. Turns all his gatherings into great  successes, they say, but never mentions where he  sources these strange objects.”</p>",
+        "4-4": "<p><b>Archaeotech:</b> “I’ve heard the Tech-Priests are  excited, insofar as that lot can be. I gather they  found something interesting amongst the spire’s  power cells, so now we must endure lengthy  delays to their repair.”</p>",
+        "5-5": "<p><b>Heretical Healer:</b> “I don’t envy that healer. Yes,  those nobles are now healthier than before their  ailments and he enjoys their personal hospitality.  But every young heir now has decades to wait!”</p>",
+        "6-6": "<p><b>Hive Alliances:</b> “I should have those diplomats  flogged! Send another delegation. If we cannot  strike a trade agreement in the sanctum  administratus, we must make perparations to  strike it on the battlefield!”</p>",
+        "7-7": "<p><b>Hive Disasters:</b> “I’ve heard it said we lost nine  million workers when that spire collapsed.  The Administratum expects a 15% drop in  productivity. Tell the survivors they are allowed  no more than 10%.”</p>",
+        "8-8": "<p><b>Nouveau Riche:</b> “I say, don’t mention that  upstart’s name here! Wherever he found his  fortune, he certainly did not find manners  alongside it! A contemptible braggart. Mother is  just beside herself.”</p>",
+        "9-9": "<p><b>Valued Vintage:</b> “This year’s vintage is  magnificent! Well worth the… unusual weather. I  fear with such fervent demand across the system,  we will soon have no reserves to speak of!”</p>",
+        "10-10": "<p><b>The Tithe:</b> “Meeting the Tithe is good and  right, praise the God-Emperor and so forth, but  continued success only invites higher Tithes. We  should take steps to ensure our rivals pay any  increase instead of us.”</p>"
+      }
+    },
+    "Noble Titles - Domain": {
+      "name": "Noble Titles - Domain",
+      "description": "<p>Domain</p>",
+      "results": {
+        "1-1": "of the Edifice of Krint",
+        "2-2": "of the Far March",
+        "3-3": "of Hive Level Gamma",
+        "4-4": "of House Tavol",
+        "5-5": "of the Near Wastes",
+        "6-6": "of the Outer Query",
+        "7-7": "of Rolokar’s Last Regiment",
+        "8-8": "of Sector XR-52",
+        "9-9": "of Sub Sector Alpha",
+        "10-10": "of the Thirsting Gulf"
+      }
+    },
+    "Adeptus Ministorum Personae - Mannerism": {
+      "name": "Adeptus Ministorum Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "They sit perfectly still, peering over their arched fingers.",
+        "2-2": "Always quoting benedictions to back up their words.",
+        "3-3": "Communicates with sign language or written notes due to a vow of silence.",
+        "4-4": "Constantly fiddling with a cilice or other tool of self-mortification.",
+        "5-5": "Sips from a hip flask of amasec when they think nobody is watching.",
+        "6-6": "Never makes eye contact, as if watching unseen angels near the characters.",
+        "7-7": "Smoke issues from their eyes (or sockets) in the presence of religious iconography.",
+        "8-8": "Whistles or hums the cadence of common hymns when distracted.",
+        "9-9": "Writes down their impressively impure thoughts in a small pocketbook.",
+        "10-10": "Twitches at any sudden sound, and constantly implores characters to lower their loud voices."
+      }
+    },
+    "Astra Militarum Personae - Mannerism": {
+      "name": "Astra Militarum Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Obsessively polishes their sidearm.",
+        "2-2": "Constantly mopping sweat from their brow.",
+        "3-3": "Cleans their nails with a vicious knife while talking.",
+        "4-4": "Ends each sentence with a crisp <i>“Sah!”</i>, as if speaking to their superior.",
+        "5-5": "Constantly adjusting their hat, as if it is slightly too small.",
+        "6-6": "Tilts their head to one side while listening, as if appraising.",
+        "7-7": "Looks startled, afraid they’ve been caught doing something unregulated.",
+        "8-8": "Constantly flicks the safety clip of their sidearm holster open and closed.",
+        "9-9": "Always revising or adding notes to their Guardsman’s Uplifting Primer.",
+        "10-10": "Instinctively touches an Aquila on their clothing when they hear “God-Emperor”."
+      }
+    },
+    "Imperial Navy Personae - Distinguishing Feature": {
+      "name": "Imperial Navy Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "Wears a monocle with a targeting reticle.",
+        "2-2": "Low-grav life has made them unusually lithe.",
+        "3-3": "Wrapped head to toe in prayer strips and lucky charms.",
+        "4-4": "Knuckle tattoos spelling “KILL” on one hand, and “XENO” on the other.",
+        "5-5": "Uses a wheelchair of red brass, covered in control panels and data readouts.",
+        "6-6": "Looks like they haven’t slept in a month, although their uniform is pristine.",
+        "7-7": "An obvious augmetic leg causes every other footstep to clang loudly.",
+        "8-8": "Has sewn the dogtags of lost friends into their jacket. It is mostly metal.",
+        "9-9": "Their lungs have been replaced with augmetics resembling gas tanks.",
+        "10-10": "Retains a servitor to display medals, as they have no more room on their uniform."
+      }
+    },
+    "Imperium Technobabble - First Descriptor": {
+      "name": "Imperium Technobabble - First Descriptor",
+      "description": "<p>First Descriptor</p>",
+      "results": {
+        "1-1": "Adamantine",
+        "2-2": "Anima",
+        "3-3": "Archeotech",
+        "4-4": "Binary",
+        "5-5": "Ceramite",
+        "6-6": "Forging",
+        "7-7": "Hexamathic",
+        "8-8": "Noospheric",
+        "9-9": "Plasteel",
+        "10-10": "Promethium"
+      }
+    },
+    "Macharian Voidship Names - Name Prefix": {
+      "name": "Macharian Voidship Names - Name Prefix",
+      "description": "<p>Name Prefix</p>",
+      "results": {
+        "1-1": "His",
+        "2-2": "The",
+        "3-3": "The Emperor’s",
+        "4-4": "The Eternity of",
+        "5-5": "The Fury of",
+        "6-6": "The Glory of",
+        "7-7": "The Guardian of",
+        "8-8": "The Hallowed",
+        "9-9": "The Hammer of",
+        "10-10": "The Sword of"
+      }
+    },
+    "Administratum Paperwork - Paperwork Item": {
+      "name": "Administratum Paperwork - Paperwork Item",
+      "description": "<p>Paperwork Item</p>",
+      "results": {
+        "1-1": "Munitorum",
+        "2-2": "Maintenance",
+        "3-3": "Manufactorum",
+        "4-4": "Sanctum",
+        "5-5": "Datavault",
+        "6-6": "Archivium",
+        "7-7": "Voidport",
+        "8-8": "Astropathic",
+        "9-9": "Cartographica",
+        "10-10": "Redaction"
+      }
+    },
+    "Inquisition Personae - Mannerism": {
+      "name": "Inquisition Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Moves stiffly, as though they are far older than they look.",
+        "2-2": "Curses under their breath in mixed Low Gothic and slang.",
+        "3-3": "Often performs a reading of the Emperor’s Tarot during conversations.",
+        "4-4": "The fingers of their augmetic hand bend in unsettling directions.",
+        "5-5": "Raises a single eyebrow while listening to anyone who speaks to them.",
+        "6-6": "Hands constantly moving to  check the weapons about their  person.",
+        "7-7": "Throws out questions on holy doctrine, testing other’s knowledge or ignorance.",
+        "8-8": "Frequently inhales an unknown violet mixture from a rebreather.",
+        "9-9": "A Servo-Skull hovers nearby, whispering a data feed into their ear.",
+        "10-10": "They grimace and often touch their face, having recently used polymorphine to change their appearance."
+      }
+    },
+    "Administratum Personae - Distinguishing Feature": {
+      "name": "Administratum Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "Forehead tattooed with a prayer against clerical error.",
+        "2-2": "Been physically grafted into a cogitator unit.",
+        "3-3": "No distinguishing features. They are utterly unremarkable.",
+        "4-4": "A hidden augmetic that releases a strained whine when they move.",
+        "5-5": "An antiquated respirator unit and vox-synthesiser, obscuring their lower face.",
+        "6-6": "One arm has been replaced by a gilded Auto-Quill and inkwell.",
+        "7-7": "Has several new cranial implants, the flesh of their skull still red and swollen.",
+        "8-8": "Has several pairs of magnifier-glasses hung on chains around their neck.",
+        "9-9": "Their face constantly cast in shadows from the harsh red glow of an augmetic eye.",
+        "10-10": "Had their skull elongated and reconstructed, giving an almost equine appearance."
+      }
+    },
+    "Adeptus Mechanicus Personae - Distinguishing Feature": {
+      "name": "Adeptus Mechanicus Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "A calculus logi unit makes up half their skull.",
+        "2-2": "An augmetic heart, its parts proud and visible.",
+        "3-3": "A pristine gold optical array, punctuated by a Ruby augmetic eye.",
+        "4-4": "A ballistic mechadendrite that looms by their side menacingly.",
+        "5-5": "A polished plasteel augmetic nose protrudes from their face.",
+        "6-6": "A sheared off mechadendrite, with loose cables generating sparks.",
+        "7-7": "A fully equipped medicae mechadendrite reaches over their shoulders.",
+        "8-8": "A pair of extra long optical mechadendrites reach out from their spine.",
+        "9-9": "A treaded track assembly has replaced their entire lower body.",
+        "10-10": "A pair of backwards jointed spindly legs with strange hoof-like feet."
+      }
+    },
+    "Astra Militarum Personae - Attitude": {
+      "name": "Astra Militarum Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Serious, competent, expects the same of everyone.",
+        "2-2": "Acts as if they are forever standing at attention.",
+        "3-3": "Thousand yard stare, slow to respond, and indecisive.",
+        "4-4": "Sighs and rolls their eyes at every request, clearly resigned to their lot in life.",
+        "5-5": "Suspicious, double and triple-checks codes and paperwork, causing delays.",
+        "6-6": "Will make any excuse to avoid hard work or pursue difficult requests.",
+        "7-7": "Condescending and snobby with all non-military personnel.",
+        "8-8": "Bombastic and intimidating like a drill-sergeant ordering a recruit.",
+        "9-9": "Calm and cooperative, at peace with their role in the God-Emperor’s army.",
+        "10-10": "A happy contraband smuggler, willing to speed up requests in exchange for favours."
+      }
+    },
+    "Macharian Maledictions": {
+      "name": "Macharian Maledictions",
+      "description": "<p><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-cc3e875a-7fff-b0b6-4e5e-80216888038b\">Macharian Maledictions</strong></span></p>",
+      "results": {
+        "1-5": "“Warp take you and your kin!”",
+        "6-10": "“You’d sit an Ork’s mother on the Golden Throne!”",
+        "11-15": "“You have all the grace of a drunken Grox!”",
+        "16-20": "“You’ve a personality blander than grey rations!”",
+        "21-25": "“You’d need a Navigator house to find your own backside!”",
+        "26-30": "“May the Great Rift swallow you and yours!”",
+        "31-35": "“You’ve got a skull as thick as an Ogryn’s!”",
+        "36-40": "“You knock-kneed, Warp-twisted, Throne-humping basdack!”",
+        "41-45": "“Are you less tok-damned use than shoes on a Skitarius?”",
+        "46-50": "“Your mind is so open it went and dribbled out your ears!”",
+        "51-55": "“If a daemon ate your soul it would starve!”",
+        "56-60": "“An ocean of blood wouldn’t wash your sins!”",
+        "61-65": "“A Commissar would have you licking boots in minutes!”",
+        "66-70": "“You’re not even worth Terra’s due.”",
+        "71-75": "“You’d lose a fist-fight with a ratling!”",
+        "76-80": "“You’re about as great tokking company as a servitor at a dinner party!”",
+        "81-85": "“I pity the fleas unlucky enough to choose you.”",
+        "86-90": "“Get some sacred unguents into that head of yours!”",
+        "91-95": "“Must’ve tithed your brain and left your body behind.”",
+        "96-100": "“You sump-sucking Dreg-tick!”"
+      }
+    },
+    "Imperial Navy Personae - Role": {
+      "name": "Imperial Navy Personae - Role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Aeronautica Pilot",
+        "2-2": "Astropath",
+        "3-3": "Breacher",
+        "4-4": "Ensign",
+        "5-5": "Lieutenant",
+        "6-6": "Midshipman",
+        "7-7": "Navigator",
+        "8-8": "Ship Labourer",
+        "9-9": "Voidsman-at-Arms",
+        "10-10": "Warrant Officer"
+      }
+    },
+    "Inquisition Personae - Distinguishing Feature": {
+      "name": "Inquisition Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "Wears Cadian armour denoting high rank.",
+        "2-2": "Their attire is a mix of noble, pious, and military.",
+        "3-3": "Half their head has been replaced with metal, both eyes are augmetic.",
+        "4-4": "Carries an ancient and elaborate blade weapon that radiates power.",
+        "5-5": "A large Inquisitorial tattoo down the back of their shaved head.",
+        "6-6": "A mighty two-handed hammer strapped to their back, covered in litanies.",
+        "7-7": "Intense eyes, like their gaze can quantify the purity of your soul.",
+        "8-8": "They wear very faded Tech-Priest robes under Ministorum armour.",
+        "9-9": "Their hood conceals their face except for a single glowing augmetic eye.",
+        "10-10": "Wears pieces of ancient Power Armour embellished with images of Saint Macharius."
+      }
+    },
+    "Adeptus Mechanicus Personae - Mannerism": {
+      "name": "Adeptus Mechanicus Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "One of their augmetics constantly twitches, out of their control.",
+        "2-2": "They emit a long, static sigh before they begin talking.",
+        "3-3": "Malfunctioning vox emits  intermittent static clicks.",
+        "4-4": "They tap their chin when they are deep in thought.",
+        "5-5": "Something in their head whirrs and ticks when they pause their speech.",
+        "6-6": "They like to run their fingers over nearby buttons and controls.",
+        "7-7": "Forever checking their robes to make sure they’re clean.",
+        "8-8": "They often disassociate, their thoughts lost in torrents of data.",
+        "9-9": "They absently flick switches and dials on their body, as if they itch.",
+        "10-10": "They keep their arms crossed, using only their mechadendrites to interact with the world."
+      }
+    },
+    "Imperium Tech Descriptors": {
+      "name": "Imperium Tech Descriptors",
+      "description": "<p>Imperium Tech Descriptors</p>",
+      "results": {
+        "1-5": "A cluster of small antennae purring with static.",
+        "6-10": "A skull implanted with glowing red eyes, blinking at you.",
+        "11-15": "Frayed cables of various colours, wrapped around its exterior.",
+        "16-20": "A row of black and white ivory keys, engraved in High Gothic.",
+        "21-25": "Intricate clockwork, with cogs just the width of a hair.",
+        "26-30": "Capped pipes which vent a puff of steam at regular intervals.",
+        "31-35": "Covered in Mechanicus serial numbers and iconography.",
+        "36-40": "A burnished metal skull, a vox-caster in its open mouth.",
+        "41-45": "An ornate hand-crank of iron and human bone.",
+        "46-50": "A hololithic display upon which scrolls a prayer to the Machine God.",
+        "51-55": "Stuck with an undetonated Bolter Round; warnings forbid removal.",
+        "56-60": "A grinning skull acts as a control panel, each tooth a button.",
+        "61-65": "An archaic tubular speaking horn of tarnished copper.",
+        "66-70": "An input keyboard with human knuckle bones for keys.",
+        "71-75": "A relief showing local star constellations.",
+        "76-80": "A power indicator encased in an iron mesh.",
+        "81-85": "A mechadendrite that appears to have no immediate function.",
+        "86-90": "Adorned with a trio of red waxed  purity seals.",
+        "91-95": "Vacuum tubes containing green gasses.",
+        "96-100": "A hololithic display streaming lingua-technis code."
+      }
+    },
+    "Xenos Tech Descriptors": {
+      "name": "Xenos Tech Descriptors",
+      "description": "<p>Xenos Tech Descriptors</p>",
+      "results": {
+        "1-5": "A ridge of perfectly arched metal spines.",
+        "6-10": "A studded array of ovular-shaped colourful jewels.",
+        "11-15": "A casing that carries the texture of flesh.",
+        "16-20": "Etchings in a swirling language you don’t recognise.",
+        "21-25": "A series of runes that emit a faint glow in the dark.",
+        "26-30": "Horn clusters made of blackened bone.",
+        "31-35": "A series of interlocking rings of perfectly reflective metal.",
+        "36-40": "A pouch of organic-looking gel shot through fine silvery wires.",
+        "41-45": "Purpose-grown bone studded with shell-like whorls.",
+        "46-50": "Detailed hololithic glyphs that are somehow solid to touch.",
+        "51-55": "A perfectly spherical ball of liquid metal, suspended by unknown forces.",
+        "56-60": "Crystal outgrowths that emit different ringing tones when touched.",
+        "61-65": "A control panel, changing layout by the angle it is viewed from.",
+        "66-70": "Metallic runes that maintain at absolute zero temperatures.",
+        "71-75": "A tiny hexagonal interface that can’t be distinguished with normal eyes.",
+        "76-80": "A seemingly excessive amount of spikes.",
+        "81-85": "Irregular clusters of long, serrated, gently swaying spines.",
+        "86-90": "A phosphorescent surface that glows when touched by flesh.",
+        "91-95": "A surface that is unexpectedly magnetic.",
+        "96-100": "Unusual, lopsided symbols only visible in ultraviolet light."
+      }
+    },
+    "Astra Militarum Personae - Distinguishing Feature": {
+      "name": "Astra Militarum Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "The distinct aroma of a Grox herder.",
+        "2-2": "A deeply broken nose, sitting flush against their cheekbone.",
+        "3-3": "A large regimental tattoo across their neck.",
+        "4-4": "Is wearing punishment garb and has been marked for censure.",
+        "5-5": "Marked their armour with various icons of the Imperial Creed.",
+        "6-6": "Radiation flare burns in a circular pattern across their face.",
+        "7-7": "A shiny new augmetic leg they are still adjusting to.",
+        "8-8": "A contorted smirk, caused by a nasty hardened scar.",
+        "9-9": "The numerals ‘XIXI’ scarred into their forehead.",
+        "10-10": "Their entire lower jaw was replaced by an adamantium prosthesis."
+      }
+    },
+    "Infractionist Personae - Distinguishing Feature": {
+      "name": "Infractionist Personae - Distinguishing Feature",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Chem-burns all across their arms and chest.",
+        "2-2": "Their skin looks clammy and slightly scaly.",
+        "3-3": "A defaced Imperial Aquila pendant on their chest.",
+        "4-4": "Has a disjointed nose and is missing most of their teeth.",
+        "5-5": "Their lips have been removed and their teeth filed to points.",
+        "6-6": "Imperial tattoos are obscured by newer, sinister tattoos.",
+        "7-7": "Has leaking and grinding augmetics, not been serviced in some time.",
+        "8-8": "Is covering up a penal world branding on their forehead with a flat cap.",
+        "9-9": "Well-tailored clothing that does not at all match their grubby, scruffy face.",
+        "10-10": "A bifurcated tongue, gained as part of a gang initiation, emphasising a gruesome face."
+      }
+    },
+    "Adeptus Mechanicus Personae - Attitude": {
+      "name": "Adeptus Mechanicus Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Always in a foul mood, but never explains why.",
+        "2-2": "Generally content and eager to talk to anyone.",
+        "3-3": "Often deep in thought, and never wants to be bothered.",
+        "4-4": "Always stuck in their head, analysing Auspex scanned data, looking at details.",
+        "5-5": "Distrustful of those who do not provide proper credentials.",
+        "6-6": "More interested in uncommon tech present than any matter at hand.",
+        "7-7": "Staunchly against working with improper or unkempt equipment.",
+        "8-8": "Passionate about their work and are always eager to discuss it.",
+        "9-9": "Always keeping their work to themselves, and are stoutly against sharing.",
+        "10-10": "More interested in a person’s augmetics than the person they’re actually attached to."
+      }
+    },
+    "Macharian Voidship Names - Name Suffix (B)": {
+      "name": "Macharian Voidship Names - Name Suffix (B)",
+      "description": "<p>Name Suffix (B)</p>",
+      "results": {
+        "1-1": "Macharius",
+        "2-2": "Kharmin",
+        "3-3": "Sejanus",
+        "4-4": "Cytheris",
+        "5-5": "Tavol",
+        "6-6": "Vo",
+        "7-7": "Molinair",
+        "8-8": "Eskutchax",
+        "9-9": "Carinus",
+        "10-10": "Persepolis"
+      }
+    },
+    "Orbital Station Whispers": {
+      "name": "Orbital Station Whispers",
+      "description": "<p><strong>Orbital Stations:</strong> Stations across the imperium may orbit a celestial body, or be anchored as a convenient waypoint in a vital system. Some serve as trade outposts or supply depots, where deals can be made and vessels can quickly retrieve cargo. Others act as space-fortresses, guarding valuable locations or void-docks for vessels to undergo repairs or refitting. Most stations are not self-sustaining, and depend upon a workforce of labourers, scribes, techs, and those who support them. Not to forget the odd traveller or voidsman likely to pass through.</p>",
+      "results": {
+        "1-1": "<p><b>Decreased Traffic:</b> “Fewer transports passing  through in recent years, something disrupting the  lanes. Citizens saying the Governor’s worried the  station’s going to be scuttled. Where are all of us  going to go after that?”</p>",
+        "2-2": "<p><b>Xenos Activity:</b> “Xenos raids ain’t nothing  new round here. Found a way past the defences  somehow, practically come and go as they please.  Except no-one seems to remember what those vile  beings actually want.”</p>",
+        "3-3": "<p><b>Power Problems:</b> “Cog-Heads are sealing off  the lower levels tonight. Lights and other minor  systems are cutting out due to fuel leaks, they say. I  think they’ve not kept up with their maintenance.\"</p>",
+        "4-4": "<p><b>Fleet Action:</b> “A large squadron is scheduled  to arrive soon for refuelling and maintenance.  All hands to the docking ports. We’ll be hauling  ordnance out of storage all day and night.”</p>",
+        "5-5": "<p><b>Station Structure:</b> “The lower hab decks got  sheared off and swallowed by the void years ago;  like something took a bite out of the station. No-one knows what really happened.”</p>",
+        "6-6": "<p><b>Adeptus Mechanicus Activity:</b> “Cogheads are all  worried, I heard a Magos is coming and they ain’t  pleased with the station’s output. They’ve been  running mad re-purifying all the Cogitators.”</p>",
+        "7-7": "<p><b>Warp Taint:</b> “Crew off a visiting vessel says  their ship got a real good licking from the warp;  Captain’s kicked them all off the ship, not letting  them back on board til every decks been blessed.”</p>",
+        "8-8": "<p><b>Rogue Trader Activity:</b> “Some flashy Rogue  Trader’s been stopping by like cogwork. Some  Deckhands got a look of what they’re hauling, and  they don’t know what they’re looking at.”</p>",
+        "9-9": "<p><b>Reduced Rations:</b> “Lad in the station officio says  those last two fleets that passed through took  on more supplies than they were supposed to.  Rationing’s starting tomorrow, folk ain’t going to  be happy about it.”</p>",
+        "10-10": "<p><b>Cult Activity:</b> “Voidsmen coming and going from  that abandoned deck. I heard there’s food, water,  atmosphere, and other pleasures being handed out  for nothing — if guests know how to be discreet.”</p>"
+      }
+    },
+    "Administratum Paperwork - Paperwork Code": {
+      "name": "Administratum Paperwork - Paperwork Code",
+      "description": "<p>Paperwork Code</p>",
+      "results": {
+        "1-1": "604-F",
+        "2-2": "XR-1004",
+        "3-3": "54-Alpha",
+        "4-4": "CN22",
+        "5-5": "Ticket-23",
+        "6-6": "21-Gamma",
+        "7-7": "RX-45d",
+        "8-8": "17-FT",
+        "9-9": "K32-CSE",
+        "10-10": "AMA-49"
+      }
+    },
+    "Administratum Personae - Attitude": {
+      "name": "Administratum Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Disdainful and abrasive.",
+        "2-2": "Excited to explain administrative minutiae.",
+        "3-3": "Paranoid and evasive, convinced enemies are hiding around them.",
+        "4-4": "Lazy, will always try to direct claimants to another department.",
+        "5-5": "Well-meaning but condescending to anyone of lower rank.",
+        "6-6": "Literal-minded, easily confused by jokes or figures of speech.",
+        "7-7": "Unusually jovial, happy to be serving the Administratum.",
+        "8-8": "They never deviate from protocol, and act apologetically so.",
+        "9-9": "Fascinated by non-Administratum personnel.",
+        "10-10": "Rather more interested in garnering gossip than focussing on their work."
+      }
+    },
+    "Upper Hive Encounters": {
+      "name": "Upper Hive Encounters",
+      "description": "",
+      "results": {
+        "1-7": "The harsh sound of industrial grinding assails your ears as your path takes you alongside the titanic bulk of an @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.XWjIkLBokiwV20Dr#augmetics-manufactorum-phi-99]{Augmetics Manufactorum}. A procession of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-mechanicus]{Adeptus Mechanicus} adepts and their servitor guards blocks your path as they carry the fruits of their pious labours — a collection of augmetic limbs arrayed neatly on a palanquin — to another facility.",
+        "8-14": "You traverse a maze of habways choked with steam venting from nearby manufactorums, emerging into a small courtyard beneath a towering structural buttress. A winding queue fills the courtyard, waiting for aid from the @UUID[Compendium.impmal-core.items.Item.mEuexXWYb26AVetJ]{Officio Medicae} sanctum built into the buttress itself. Both the @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} scriveners keeping records and the ordinates giving medicae aid are clearly overworked, leaving critical information and supplies unattended.",
+        "15-21": "Your group passes beneath a tangle of intersecting causeways between thrumming manufactorums, coming upon a plaza interspersed with tall statues and shrines to Macharian Saints. Adepts of Imperial factions mingle, purchasing various religious icons and making pious observances, as a scarred Adeptus Ministorum Preacher screams a sermon to be heard above the industrial noise and the clamour of the crowd.",
+        "22-28": "Your travels through habway backstreets entangled with colossal pipes are slowed by a well-armed, cautiously proceeding caravan of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-lenimen]{Mercator Lenimen} guilders. The guilders demand that everyone keep their distance from their cargo, wary of ambush as they deliver chemicals to an Adeptus Mechanicus Unguentarium.",
+        "29-35": "As you pass between the colossal feet of a statue of a saint towering at least a mile high, you hear an argument; a Highborn scion is demanding a tithe of meat from a @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-carnem]{Mercator Carnem} caravan apparently passing through the noble's territory. If anyone in the argument notices the characters, they will call them over and ask them to settle the debate, potentially representing one side in a duel.",
+        "36-42": "Your group exits a miles-long fume-choked passageway into a sanctioned gathering place, a plaza in the loose shape of a gargantuan Aquila emblazoned on the plasteel floor. Though several reasonably well-made market stalls frame the plaza, most milling adepts have their eyes on a raised platform bearing the crest of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-dilaquo]{Mercator Dilaquo}, bidding on containers of water purified to varying degrees.",
+        "43-49": "As you navigate a jugle of gantries hanging a mile above the cathedrums on the ground level far below, you pass by a raised plaza outside of a Plasteel Manufactorum. You hear the sharp crack of a @UUID[Compendium.impmal-starter-set.items.Item.jNxvsLBybPPenmmn]{Laspistol} as a pragmatic Departmento Munitorum inspector conducts an unorthodox test of the manufactorum's output.",
+        "50-56": "The screeching of maglev trains assail your ears as you pass through an industrial district of the Upper Hive. Your path is blocked by a caravan of @UUID[Compendium.impmal-core.items.Item.0DNYdNKKglMlFOko]{Imperial Fleet} stevadores hauling gargantuan carts laden with goods, brought to a standstill by an Administratum inspection.",
+        "57-63": "You find yourselves lost whilst navigating the titanic labyrinth of a habsprawl that spans multiple levels of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.9IPqIrShmqynKuZc]{Upper Hive}. Though the majority of the Upper Hive is relatively crime-free, this won’t protect the characters from the ire of the @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites}. A large squad of @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites} accosts them, believing they travelled to the Upper Hive illegally, and attempt to escort them to Fortress Precinct Majoris for ‘processing’.",
+        "64-70": "Your path takes you through the guts of an enormous thrumming machine, easily taller than a cathedrum, that serves a seemingly indiscernible purpose. Two Tech-Priests examine it, employing arcane devices that by happenstance cause disruption to any technology of your own. Anything you carry that's more complicated than a @UUID[Compendium.impmal-core.items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} is rendered inoperable for one day unless you succeed on a Hard (−20) Tech Test.",
+        "71-77": "Your travels take you through a district dominated by a colossal cathedrum whose spires pierce this level of the hive. As you pass beneath its ceiling-scraping arches and incense-choked open cloisters, you cross paths with a group of nervous priests gawking at a squad of @UUID[Compendium.impmal-core.actors.Actor.fR4lfJVppXfiiYea]{Battle Sisters} of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#the-order-of-searing-purity]{Order of Searing Purity}. The well-armed @UUID[Compendium.impmal-core.actors.Actor.fR4lfJVppXfiiYea]{Adepta Sororitas} petition any who pass by them to join their righteous witch hunt in the @UUID[RollTable.3naaAiIZQcgzNpZL]{Bowels}.",
+        "78-84": "Your group ascend seemingly endless ancient rockrete stairs through a supporting buttress on your way to your destination, but are stopped at a plaza where multiple spiraling staircases meet. The @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} are holding a census at this intersection, gathering data on the thousands of varied people passing through at a glacial pace, while @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites} intimidate anyone attempting to leave without being accounted for.",
+        "85-91": "As you travel down a broad throughfare between two multi-mile long cathedrums, your group is enveloped by a procession of thousands of adepts holding a candlelit vigil, aiming to walk the entire breadth of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.K9f5dlvEMBE2fYeW#life-in-rokarth]{Rokarth} in honourable remembrance of the @UUID[Compendium.impmal-core.journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-conquests]{Macharian Crusade}.",
+        "92-98": "The group meanders deep through a mazelike district filled with Administratum Sanctums. A stressed scrivener petitions the group, asking them to investigate a location of your choice in the @UUID[RollTable.3naaAiIZQcgzNpZL]{Bowels} to take a population census and investigate any structural instabilities.",
+        "99-100": "Choose one of the player characters. As the group traverse the tangled gantries of a bustling habway, you meet eyes with your doppelganger. Their eyes widen, and they throw a @UUID[Compendium.impmal-starter-set.items.Item.kw9N0gOOA3YVqN4i]{Smoke Grenade} on the ground before sprinting away, firing an @UUID[Compendium.impmal-starter-set.items.Item.AfhkWSUYY9y6byiN]{Autopistol} into the crowd to clear a path. The group will have to deal with the aftermath of this confusion, and the character may have to prove it wasn’t them that caused this commotion."
+      }
+    },
+    "Macharian Voidship Names - Name Suffix (A)": {
+      "name": "Macharian Voidship Names - Name Suffix (A)",
+      "description": "<p>Name Suffix (A)</p>",
+      "results": {
+        "1-1": "Ascension",
+        "2-2": "Crusade",
+        "3-3": "Hawk",
+        "4-4": "Infernus",
+        "5-5": "Shadow",
+        "6-6": "Solar",
+        "7-7": "Terra",
+        "8-8": "Thunder",
+        "9-9": "Vigilance",
+        "10-10": "Wrath"
+      }
+    },
+    "Crumbling Hive Whispers": {
+      "name": "Crumbling Hive Whispers",
+      "description": "<p><strong>Crumbling Hives:</strong> For the millennia it often takes for a hive to grow from a hole in the ground into a sophisticated metropolis, it takes much less time for these societies to crumble. Here, faith is withering, and the citizens have turned to preying upon one another to survive. The highest echelons of society might be desperate for a way out, looking to the stars, whilst the lowly working classes might seek to dig in and protect what’s theirs. Rumours regarding the haves and the have-nots spread like wildfire up and down the Hive, feeding desperation and crime.</p>",
+      "results": {
+        "1-1": "<p><b>Crime Wave:</b> “This neighbourhood is no  stranger to crime, but in the last few months  it has become unbearable. Gang wars? Power  vaccum? Simple desperation? The ‘who’ matters  little to the victims.”</p>",
+        "2-2": "<p><b>Cult Activity:</b> “Strange chants, weird parades,  rituals that would curl a Deacon’s toes. I don’t  know who they worship over that way mate, and  I don’t want to know.”</p>",
+        "3-3": "<p><b>Renegade Activity:</b> “They resented bein’ drafted,  see. Now they got notions, fighting against the  loyal regiments. Winnin’, too. What happens  when the collectors come callin’ and all these  soldiers ain’t there?”</p>",
+        "4-4": "<p><b>Noble Power </b>Play: “The Governor says one  thing, his rival cousin says another. Power, food,  and water have slowed to nothing while everyone  with aspirations decides who’s side they’re on.”</p>",
+        "5-5": "<p><b>Raw Material </b>Shortage: “You tell those guild  fools my labourers can’t work without materials.  If they don’t sort out their late shipments, it’ll be  them explaining why the governor’s tithe is short  on his quotas.”</p>",
+        "6-6": "<p><b>Overdue Black </b>Ship: “The prisons are stuffed  with witches but the Black Ships haven’t called in  years. All that warp-sorcery hanging around for  so long, staining our world — it’s disgraceful.”</p>",
+        "7-7": "<p><b>Warehouse Disaster:</b> “Public stores will be  commandeered to make up the shortfall. The  only stores ruined were for the tithe. Mark my  words, someone’s up to no good, and in the end  we’ll all pay the price.”</p>",
+        "8-8": "<p><b>Water Purity:</b> “Every supply for 5 miles turned  sour‘ bout a month ago. Illness followed  soon after. The preachers say it’s punishment  for lack of faith. They could be right, in this  neighbourhood.”</p>",
+        "9-9": "<p><b>Strange Lights:</b> “Grandmother says some nights  are cursed. Those nights, the hab-lights act  strange. They’re meant to be dimmed for the  night-cycle, but I saw them light up buildings,  transports, people… Stay indoors, those nights.”</p>",
+        "10-10": "<p><b>Guard Recruitment:</b> “Keep yer nose clean! Word  is, there ain’t enough people enlisting. Prisons  are empty but arrests are rising. Don’t matter  what you done, the sentence will be joining the  next regiment.”</p>"
+      }
+    },
+    "Tech Priest Prayers": {
+      "name": "Tech Priest Prayers",
+      "description": "<p><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-3b1a53a9-7fff-73bc-5ce9-fbe47f4b6fe8\">Tech Priest Prayers</strong></span></p>",
+      "results": {
+        "1-5": "“Fulcrum, Load, and Effort, Blessed Trinity guide my actions.”",
+        "6-10": "“Knowledge is Eternal. Knowledge is Sacred. Knowledge is Power.”",
+        "11-15": "“Machine spirits of the cogitator, guard my calculations from error.”",
+        "16-20": "“Will of iron, body of steel, wrath of fire; forge me to thy designs.”",
+        "21-25": "“With pulled lever and turned piston; proclaim the Omnissiah’s glories.”",
+        "26-30": "“Spirit of this machine, heed my command.”",
+        "31-35": "“I abjure the false datum, and the malice of scrap-code, and all their unholy works.”",
+        "36-40": "“Iron over flesh, cogitation over thought, information over conjecture. Thus is purity, and victory, assured.”",
+        "41-45": "“The grinding of war’s gears is a symphony of praise to the Omnissiah, fuelled with blood and oiled with devotion.”",
+        "46-50": "“In times of darkness Omnissiah, lead us not into innovation, but towards ever-greater ortho-doctrine.”",
+        "51-55": "“Bask the alloys in sacred light. Ensure their scorched form is tempered with blazing heat. That which burns shall ever be blessed.”",
+        "56-60": "“With blazing furnace we smelt impurity from iron; with burning hatred we smelt mercy from our souls.”",
+        "61-65": "“May your weapon be guarded against malfunction, as your soul is guarded from impurity.”",
+        "66-70": "“I place my trust in the Machine, I obey without question, for the cog asks not for whom it turns.”",
+        "71-75": "“Fuel burns in vain without an Engine to shape it; all deeds are as rust without Comprehension to direct them.”",
+        "76-80": "“To understand heresy is to practise it; Omnissiah preserve my ignorance of the xenos, the heretek, and all who deny your will.”",
+        "81-85": "“It is the Machine Spirit who cogitates within the circuit, who casts the bullet from gun barrel, but only if its temple is properly maintained.”",
+        "86-90": "“Omnissiah guard my sensors from error, guard my regressions from outliers, guide the Machine Spirits of my tools.”",
+        "91-95": "“With bell and candle I beseech thee, Machine Spirit! In the name of the Machine God, defragment and be optimised!”",
+        "96-100": "“Preserve my flesh, Omnissiah, only that I may replace it with steel. Preserve my soul, Omnissiah, only that it may perform your holy work.”"
+      }
+    },
+    "Astra Militarum Personae - Role": {
+      "name": "Astra Militarum Personae - Role",
+      "description": "<p><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-fccf3824-7fff-7024-2d0f-97decf8d8690\">Role</strong></span></p>",
+      "results": {
+        "1-1": "Commissar",
+        "2-2": "Conscript",
+        "3-3": "Field Chirurgeon",
+        "4-4": "Officer",
+        "5-5": "Penal Conscript",
+        "6-6": "Quartermaster",
+        "7-7": "Sergeant",
+        "8-8": "Trooper",
+        "9-9": "Veteran",
+        "10-10": "Vox-Operator"
+      }
+    },
+    "Dark Zone Whispers": {
+      "name": "Dark Zone Whispers",
+      "description": "<p><strong>Dark Zones:</strong> These whispers radiate from the forgotten and hidden places of the sector, where the Emperor’s light is at its dimmest. Here, desperate people dwell in abysmal underground reaches below hive cities: the abandoned depths of ancient mines or vast stretches of broken industrial sectors, even the forgotten decks of voidcraft. The people here are omitted from society whether they wish it for themselves or not. Instigators of rumour may include gangers, cultists, mutants, or anyone wishing to hide from the authorities above them.</p>",
+      "results": {
+        "1-1": "<p><b>Aid for Indoctrination:</b> “Lacking solars and need  fixing up? They say there’s a group offering aid for  nothing. Food and shelter too. Might be they’re just  honest citizens, but some who seek them out come  back changed.”</p>",
+        "2-2": "<p><b>Gang War:</b> “Keep yourself off the streets in the late  hours, local gangers have been fighting out in the  open, and plebs keep getting caught in the crossfire.  It’s getting worse by the night.”</p>",
+        "3-3": "<p><b>Stolen Goods:</b> “Enforcer types from the upper hive  have been snooping around the neighbourhood,  looking for a missing shipment. They think  someone from ‘round here stole from ’em.”</p>",
+        "4-4": "<p><b>Xenos Tech:</b> “People are getting proper purified  water somewhere down here, and many are  desperate to find the source. They say even cogger  agents are poking about, looking for someone  related to the water.”</p>",
+        "5-5": "<p><b>Mutant Activity:</b> “Band of mutants have been  kicking folk out of their homes and stealing  supplies from ‘round about the zone, building  themselves a hive of their own some say.”</p>",
+        "6-6": "<p><b>Rogue Psyker:</b> “Some freak’s been gathering  followers, hiding out on the lower levels. Hiding  from the Black Ships, we think. Saw the freak make  a man die by just giving him a hard stare.”</p>",
+        "7-7": "<p><b>Predatory Beast:</b> “Bodies turning up half eaten  and mangled, tracks of blood left all pointing to the  levels below. Something’s hunting us — can only  hope that there’s just one of them.”</p>",
+        "8-8": "<p><b>Spreading Plague:</b> “You haven’t got the pox have  you? Something rotten’s spreading in the next zone  over. Chirurgeons won’t waste proper medicine on  us — easier to put us in quarantine and just wait till  it kills us.”</p>",
+        "9-9": "<p><b>Esoteric Healer:</b> “You didn’t hear it from me, but  there’s a healer down the way that’ll fix you up, no  questions asked. They always ask for something  strange in payment though...”</p>",
+        "10-10": "<p><b>Noble Runaway:</b> “Seen an air-breather from the  upper hive today. Clocked him a mile off. Plumed  helm, gold embroidery, and a collar taller than  his head! Probably be dead soon, and all his fancy  clothes sold off. They say he’s looking for a runaway  from the top levels.”</p>"
+      }
+    },
+    "Noble Titles - Rank": {
+      "name": "Noble Titles - Rank",
+      "description": "<p>Rank</p>",
+      "results": {
+        "1-1": "Adjudicator",
+        "2-2": "Baron",
+        "3-3": "Castellan",
+        "4-4": "Consul",
+        "5-5": "Governor",
+        "6-6": "Margreve",
+        "7-7": "Master",
+        "8-8": "Mavin",
+        "9-9": "Overseer",
+        "10-10": "Prefectus"
+      }
+    },
+    "Administratum Personae - Mannerism": {
+      "name": "Administratum Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Speaks with a pronounced stutter.",
+        "2-2": "Laughs at private jokes that only make sense to them.",
+        "3-3": "Records every conversation they have via autoquill.",
+        "4-4": "Voice becomes robotic when citing regulations stored in their neural augmetics.",
+        "5-5": "Speaks to paperwork as if it were more alive than the people who wrote it.",
+        "6-6": "Punctuates each of their sentences by knocking on their desk.",
+        "7-7": "Hard of hearing, constantly asks others to repeat themselves.",
+        "8-8": "Argues bitterly with an inanimate servitor, between bouts of conversation.",
+        "9-9": "Whispers to a Servo-Skull who collates their words and repeats them clearly.",
+        "10-10": "Vents in their cranial implants vent steam when they are angry or excited."
+      }
+    },
+    "Inquisition Personae - Attitude": {
+      "name": "Inquisition Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Utterly devoid of humour, as if it was burned out of them.",
+        "2-2": "Stern but fair, beloved by their subordinates.",
+        "3-3": "Unusually reasonable, willing to hear unorthodox requests or arguments.",
+        "4-4": "Knowledgeable about xenos, favours characters who have experience fighting them.",
+        "5-5": "Emotionally distant; knows no-one will survive long enough to warrant attachment.",
+        "6-6": "They are attentive and helpful to a deliberately unsettling degree.",
+        "7-7": "Puritanical through and through, won’t tolerate any disrespect to the Emperor.",
+        "8-8": "Is brutally honest about the dangers facing the sector and characters’ chances.",
+        "9-9": "Often gets carried away on tangential, obscure details until urged to refocus.",
+        "10-10": "Uses a book of Inquisitorial creed to justify their actions, having totally memorised every word within."
+      }
+    },
+    "Rogue Trader Dynasty Personae - Mannerism": {
+      "name": "Rogue Trader Dynasty Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Constantly twirling their moustache or hair.",
+        "2-2": "Claps their hands together to emphasise a point.",
+        "3-3": "Rubs a charm on a necklace when thinking.",
+        "4-4": "Rolls a very large denomination coin across their knuckles.",
+        "5-5": "Looks over their shoulder before speaking, as if expecting an ambush.",
+        "6-6": "Never without an extravagant goblet of fine spirits in their grasp.",
+        "7-7": "Constantly consulting a multitude of scrolls, maps, notes, and books.",
+        "8-8": "Constantly smiling as if they already know what a character will say.",
+        "9-9": "Makes a show of flipping a coin whenever they are making a decision.",
+        "10-10": "Regularly holds a scented handkerchief to their face, as if offended by the stench of those around them."
+      }
+    },
+    "Administratum Paperwork - Paperwork Form": {
+      "name": "Administratum Paperwork - Paperwork Form",
+      "description": "<p>Paperwork Form</p>",
+      "results": {
+        "1-1": "Forma",
+        "2-2": "Requisition",
+        "3-3": "Exactionem",
+        "4-4": "Application",
+        "5-5": "Letter of Introduction",
+        "6-6": "Statement of Intent",
+        "7-7": "Testimonium",
+        "8-8": "Adfirmato",
+        "9-9": "Petition",
+        "10-10": "Claim"
+      }
+    },
+    "Rogue Trader Dynasty Personae - Role": {
+      "name": "Rogue Trader Dynasty Personae - Role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Adventurer",
+        "2-2": "Arch-Militant",
+        "3-3": "Catalogist",
+        "4-4": "Diplomat",
+        "5-5": "Mercenary",
+        "6-6": "Missionary",
+        "7-7": "Navigator",
+        "8-8": "Rogue Trader",
+        "9-9": "Seneschal",
+        "10-10": "Voidsman"
+      }
+    },
+    "Macharian Benedictions": {
+      "name": "Macharian Benedictions",
+      "description": "<p>Macharian Benedictions</p>",
+      "results": {
+        "1-5": "“Death in service to the Emperor is its own reward.”",
+        "6-10": "“Blessed is the small mind, for it is easily filled with faith.”",
+        "11-15": "“Do not shy from the hopeless fight, for endeavour is its own reward.”",
+        "16-20": "“For every celebrated hero, ten thousand more go unsung.”",
+        "21-25": "“A closed mind is an unbreakable fortress.”",
+        "26-30": "“Any face freely presented can hide deplorable deviance.”",
+        "31-35": "“Scrutinise your enemies well for they will show you your flaws.”",
+        "36-40": "“Those tainted by the warp are fit only to hunt their kin.”",
+        "41-45": "“Grant no mercy to your enemies, for they will give none to you.”",
+        "46-50": "“Wisdom resides in knowing your duty.”",
+        "51-55": "“Examine those who question authority, for they are suspect.”",
+        "56-60": "“While cowards ponder, the righteous act.”",
+        "61-65": "“A dagger in the dark is worth a thousand swords at dawn.”",
+        "66-70": "“Scour away your impurities: mercy, forgiveness, and compassion.”",
+        "71-75": "“Deeds are more eloquent than any speech.”",
+        "76-80": "“Cowls do not imply piety.”",
+        "81-85": "“There is never time for grief.”",
+        "86-90": "“Beat your thoughts to the mould of your will.”",
+        "91-95": "“If the road is easy, the destination is worthless.”",
+        "96-100": "“Trust only in the Emperor, for all others change.”"
+      }
+    },
+    "Chirurgeon’s Assessments": {
+      "name": "Chirurgeon’s Assessments",
+      "description": "<p>Chirurgeon’s Assessments</p>",
+      "results": {
+        "1-5": "“Their blood boiled with the Emperor’s rage — it’s clear they succumbed to a high fever from a yet to be diagnosed infection.”",
+        "6-10": "“Extreme lassitude, pallored flesh — something in their environment sucked the life right out of them.”",
+        "11-15": "“Swollen abdomen, leaking purulence from their orifices — all indications of imbibing a highly toxic substance.”",
+        "16-20": "“Darkened blood, seizures, and see this festering puncture wound; the subject was bitten by a venomous creature or implement.”",
+        "21-25": "“The acid carried a potent neurotoxin — frothing from the mouth, bruised muscles from seizures, burns weeping an unusual blie.”",
+        "26-30": "“Flesh may fail even the most dauntless spirit. Multiple fractures, heavy bruising — blunt force trauma from something large.”",
+        "31-35": "“Unsightly growths, but no trace of infection. Patient suffered exposure to mutagenic stimuli. There is one treatment — Curatix Ignat.”",
+        "36-40": "“Slurred speech, erratic moods, toxicoligum is clean, no evidence of head trauma — it’s as though their very mind is infected.”",
+        "41-45": "“Decapitation, yet note the strong ecchymosis around the wounds — the blade was dull, but swung with strength comparable to an Ork.”",
+        "46-50": "“Strong, precise lacerations to vulnerable points of anatomy — the killer knew much about the human form and Militarum infantry armour.”",
+        "51-55": "“Elevated adrenaline, and enzymes not normally present in blood. They died of shock or stress to the heart before they were mutilated.”",
+        "56-60": "“Severe imbalances of the humours, most likely a result of impious living and poor decisions. Medication can restore an orderly mind.”",
+        "61-65": "“Coactus mortem — serious muscle damage present in the arm holding the blade. Self-inflicted, but unwillingly. As if fighting themselves.\"",
+        "66-70": "“This one was cursed in the eyes of the Omnissiah, their flesh rejected the implants sustaining their life.\"",
+        "71-75": "“The mark of certain impieties manifest as unpleasant rash and obsessive scratching. I can prescribe penance and soothing unguents.”",
+        "76-80": "“A sickly pallor of the skin, moreso of the liver. This officer may have attempted to self-medicate stress with ill-prescribed substances.”",
+        "81-85": "“Laboured breathing, tainted sputum from the lungs — all signs of a serious respiratory infection. Recommend quarantine protocols.”",
+        "86-90": "“Sudden joint pain, synovial fluid contains monosodium urate. You have gout, not a witch’s curse.”",
+        "91-95": "“Skin rash, hair loss, abnormal glands — their body is overzealous and paranoid, finding heresy within itself.”",
+        "96-100": "“I’m afraid there is permanent nerve damage. You have two options: retire, or replace it with a blessing of the Machine God.”"
+      }
+    },
+    "Manufactorum Whispers": {
+      "name": "Manufactorum Whispers",
+      "description": "<p><strong>Manufactorums:</strong> These are the hub of each world’s technological production, where Tech-Priests of the Adeptus Mechanicus and leaders from the Administratum oversee human and servitor labourers, as they craft goods and equipment essential to the Imperium’s survival. These massive facilities may be districts within cities or can be entire metropolis-sprawling habitats on Forge Worlds. The monotony of the manufactorum’s schedules may suit the Tech-Priests, but for the average worker, any scrap of hearsay may be the highlight of their week.</p>",
+      "results": {
+        "1-1": "<p><b>Overzealous Oversight:</b> “Delays on Line Kappa  again, too many injured workers. I heard there’s an  Overseer down there who’s heavy handed with the  shock-whips. All well and good, but if it’s slowing  down production then he’s the one at fault!”</p>",
+        "2-2": "<p><b>Inconsistent Yield:</b> “Heard a Magus arguing with  the boss. Workers were doing everything right but  something’s still tampering with production. Coghead said his superiors would get involved soon.”</p>",
+        "3-3": "<p><b>Heretek Practices:</b> “Instead of hurling baseless  accusations of tech-heresy, my esteemed colleague  might look to the state of his own poorly  maintained manufactorum. The Omnissiah does  not reward the indolent.”</p>",
+        "4-4": "<p><b>Sabotage:</b> “Keep your head down and focus on  your labour. The Tech-Priests are saying next  door’s collapse was sabotage. You saw nothing, you  heard nothing, and pray they believe you.”</p>",
+        "5-5": "<p><b>Inquisitorial Investigation:</b> “I don’t know who  these outsiders are, but I saw Magos Nyala bow  to them, and you know she don’t bow to anyone.  They may as well be the God-Emperor Himself.”</p>",
+        "6-6": "<p><b>Overdue Transport:</b> “Word is the ore shipment is  late again. The overseers are furious, there’s even  talk about purging the entire mine’s workforce if  they don’t deliver soon.”</p>",
+        "7-7": "<p><b>Tech-Priest Delegation:</b> “The overseer’s scheduled  an extra shift tonight, and half the labourers are fit  to riot — or would be, if they weren’t so exhausted.  It’s all to prepare for some fancy delegation visiting  the manufactorum tomorrow.”</p>",
+        "8-8": "<p><b>Administratum Dictates:</b> “Administratum says  the manufactorum has to fab something else now.  There’ll be riots, mark my words. Production won’t  get going until their children come of age — at  least they’ll be easier to train.”</p>",
+        "9-9": "<p><b>Unfathomable Edict:</b> “It’s not the production  increase. 0.3% is fairly moderate. It’s being  punished for <i>exceeding</i> 0.3% is what I’m confused  by. I heard they keep excess production down by  trading any surplus to the infractionists.”</p>",
+        "10-10": "<p><b>Plague:</b> “Sickness on line Omega-23, even the  servitors are collapsing on the job. Overseers want  to bring in more workers, and say everything has  been sterilised. That’s what they said the last time,  too. I hear no one knows what really causes the  outbreaks, but they can’t afford to cut production.”</p>"
+      }
+    },
+    "Imperial Navy Personae - Mannerism": {
+      "name": "Imperial Navy Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Gestures expansively as they speak.",
+        "2-2": "Never seen without a cup of hot recaf in one hand.",
+        "3-3": "Hums an oddly familiar tune when thinking.",
+        "4-4": "Absent-mindedly scratches a phantom itch on their augmetics.",
+        "5-5": "Often gazes longfully at a picture of their partner in a locket.",
+        "6-6": "Unsteady on their feet, unused to walking in normal gravity.",
+        "7-7": "Always encouraging crew to sing void shanties for morale.",
+        "8-8": "Passers-by often shake their hand or pat them on the shoulder.",
+        "9-9": "Constantly plucking imaginary specks of dust off their uniform.",
+        "10-10": "Accompanied by a sidekick who agrees with them and laughs at their jokes."
+      }
+    },
+    "Mutations": {
+      "name": "Mutations",
+      "description": "<p>Mutation</p>",
+      "results": {
+        "1-3": "A small mark of a Chaos God or the eight pointed star forms on your flesh. Roll on the Hit Location table to determine where.",
+        "4-4": "Metal scales or ore deposits spread across your body. You gain +2 Armour on all locations, but your Agility is reduced by 10.",
+        "5-5": "You grow an extra mouth. Roll on the Hit Location table to determine where. The mouth acts of its own accord, whispering and infrequently screaming in a language you don’t know.",
+        "6-6": "Your shadow does not match your own movements, and it looms large and visible regardless of the light. Whenever you are in darkness and cannot see it, you have the unshakeable feeling it is doing something terrible.",
+        "7-7": "An eye appears somewhere on your body. Roll on the Hit Location table to determine where. The eye sees things you cannot.",
+        "8-8": "You do not appear in mirrors or other reflective surfaces, or in video recordings that use the visual light spectrum.",
+        "9-9": "Your legs twist into a muscular digitigrade form, enhancing your agility. You have Advantage on Athletics Tests to run, leap, or otherwise use your legs.",
+        "10-10": "Your armour and cybernetic implants fuse with your flesh. You can repair items merged with you using your Fortitude Skill. Tests to repair these items using conventional methods have Disadvantage. You can’t change your armour or don additional armour."
+      }
+    },
+    "Feudal Township Whispers": {
+      "name": "Feudal Township Whispers",
+      "description": "<p><strong>Feudal Townships:</strong> Some of the Imperium’s worlds maintain a deficient technology base. Sometimes this is due to a lack of available resources, or simple neglect, while other worlds are maintained this way in the hopes of breeding hardy soldiers for future regimental tithes. Yet, these backwater realms remain self-sufficient, dependent on traditional means of agriculture and feudal means of governance — all the while required to supply the tithe like any other world. Here, warrior-class nobilities rule over a peasantry reminicent of ancient Terra — the strife between these classes is always an abundant source of dark rumours.</p>",
+      "results": {
+        "1-1": "<p><b>Upcoming Festival:</b> “Here for the big festival?  Good folk come from leagues around to celebrate.  Three whole days of music and dancing, exotic  food and drink. Of course, the recruiters will be  watching the crowds, but we all have to serve the  Emperor somehow...”</p>",
+        "2-2": "<p><b>Beast Migration:</b> “Every year the beasts migrate,  and they go right by this town. Good hunting,  ‘long as the herds don’t stampede this way. So, are  you hunting or building the barricades?”</p>",
+        "3-3": "<p><b>Drought:</b> “Me ma says there’s evil in the water,  striking down both plant and beast. Scholars think  they can purify it, preachers say penance will  cleanse it. I say moving the whole city is easier!”</p>",
+        "4-4": "<p><b>Cult Activity:</b> “This symbol embroidered on our  garments is not for outsiders. A hero’s sigil? A sign  of the prophets? It matters not what it was, for it is a revered and sacred custom.”</p>",
+        "5-5": "<p><b>Rogue Psyker:</b> “If all else fails you… there is a  cave in the hills, not far. Within dwells a hermit  most holy. Theirs is the power of healing, of  scrying, of summoning hellfire.”</p>",
+        "6-6": "<p><b>Forest People:</b> “Stray not into the woods! Strange  men dwell there. They wear inhuman masks, and  speak in alien tongues. With glamour and strange  weapons, they bless or doom in equal measure.”</p>",
+        "7-7": "<p><b>Plague:</b> “Them who died were the lucky ones. The  sickness leaves you scarred worse than any pox,  living with unsightly growths. Your eyes or hair  may change hue. Worst though, are the dreams.”</p>",
+        "8-8": "<p><b>Predatory Beast:</b> “Tis surely a beast from the  darkness between the stars! No earthly creature  could cause such savage butchery. None who faced  it now live. In the God-Emperor’s name, aid us!”.</p>",
+        "9-9": "<p><b>Forbidden Chemystries:</b> “Aye, I went to that  merchant, you know the one, ragged wagon on  the market’s edge. Well, he sold me a tincture that  healed me leg overnight! Like it never broke!”</p>",
+        "10-10": "<p><b>Bountiful Harvest:</b> “Storms and ill-omens all  growing season, followed by the most bountiful  harvest in living memory? Of course it was evil  spirits! Look how everyone is fighting over it!”</p>"
+      }
+    },
+    "Administratum Paperwork - Average Time To Complete": {
+      "name": "Administratum Paperwork - Average Time To Complete",
+      "description": "<p>Average Time To Complete</p>",
+      "results": {
+        "1-1": "15 minutes",
+        "2-2": "30 minutes",
+        "3-3": "1 hour",
+        "4-4": "3 hour",
+        "5-5": "6 hours",
+        "6-6": "12 hours",
+        "7-7": "1 day",
+        "8-8": "2 days",
+        "9-9": "4 days",
+        "10-10": "1 week"
+      }
+    },
+    "Lower Hive Encounters": {
+      "name": "Lower Hive Encounters",
+      "description": "",
+      "results": {
+        "1-7": "Your path takes you across the roof of a titanic @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#manufactorums]{Battery Manufactorum}. You see a ventilation shaft nearby crack open, and a ragged looking man wearing a red tardigrade leather jacket climbs out, carrying a makeshift sack filled to bursting with @UUID[Compendium.impmal-starter-set.items.Item.8tlu4X5Qpzl98Uye]{Lasgun} batteries. (This man could be Raguel the Red, a member of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi-knives]{Vylathi Knives} prominently featured in the adventure @UUID[placeholder]{Chemical Burn} available at cubicle7games.com)",
+        "8-14": "Your group travel through a district given over entirely to a conurbation of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#battery-and-lumen-manufactorums]{Lumen Manufactorums}, constantly oscillating between controlled darkness and stark, blinding stablights. As Gamemaster, you can use this Dark environment as the perfect opportunity for the group's enemies to launch an ambush!",
+        "15-21": "You emerge from the labarynthine tangle of a habsprawl in front of a monolithic @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#de-rust-manufactorums]{De-Rust Manufactorum} emblazoned with the sigil of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-dilaquo]{Mercator Dilaquo}. Steam gushes from hundreds of vents across the manufactorum’s towering exterior. At the entrance, two Tech-Priests of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-mechanicus]{Adeptus Mechanicus} are trying to gain access to inspect some machinery, but the guild guards are attempting to waylay them.",
+        "22-28": "As you march beside the titanic form of a @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#fertiliser-manufactorums]{Fertiliser Manufactorums}, you see one of the cathedrum-sized pipes that jut from its exterior buckle and break, leaking a gout of steaming sludge into an @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} scriptorium. You hear howls of pain from the scriptorium, and a bedraggled scrivener petitions you for aid.   If the group agrees to help, they will find the scriptorium partially flooded with acidic effluent. Several @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} clerks are attempting to rescue critical documentation even as the caustic gunk scalds their flesh. Characters can attempt to rescue either a clerk or some documents with a <b>Difficult (-10) Athletics Test</b>, though they must make a <b>Difficult (+10) Fortitude</b> Test afterwards to avoid suffering 1 Wound from the acidic sludge. If the characters save any documents, several of the clerks will be greivously injured, but all of them will thank the group profusely and their Influence with the @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} may increase by +1 at your discretion. If the characters save the clerks, they will be irate that the characters did not save the documents.",
+        "29-35": "You notice a chain-gang of prisoners headed to @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.i7jK88CnFBdOtyRd#lomaris-detention-centre]{Detention Centre Lomaris-77}, escorted by a cadre of @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites} who frequently elbow their criminal charges.  Many of the labour-serfs bound to toil at @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#cibureum-manufactorums]{Cibureum Manufactorums} are part of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#scarred-hands]{Scarred Hands}, and may petition the characters to help rescue one of their ‘falsely imprisoned’ comrades from the chain gang. Even if the character refuses, you might have a cadre of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#scarred-hands]{Scarred Hands Gangers} throw a bundle of @UUID[Compendium.impmal-starter-set.items.Item.kw9N0gOOA3YVqN4i]{Smoke Grenades} at the convoy and attempt to free their fellows in the confusion.",
+        "36-42": "Your path is blocked by a procession of mourners following a team of slow moving Adeptus Ministorum Corpse Haulers. Their procession halts at a @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#lucerne-manufactorums]{Lucerne Manufactorums} adjoining a cathedrum festooned with enrobed, skull-faced statues. A throng of weeping mourners are listening to an @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} preacher’s sermon, amplified by laud-hailer, stating the duty of all Humans is to dedicate their lives to the Emperor.",
+        "43-49": "You come across an @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.t5pIASspATqYLZmG]{Administratum} overseer arguing with a Highborn of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#taj]{House Taj} — their quotas have been insufficient recently, with the labourers complaining of a ‘monster’ stealing their supplies. If the characters look around and succeed on a <b>Challenging (+0) Logic (Investigation) Test</b>, they’ll discover a ventilation shaft surrounded by clawmarks. This is an @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.pEgs07U5fEM0GDu6]{Infractionist} controlled Warrenway used by the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.O9ywpWJIBMjj5GsS#the-mireclaw]{Mireclaw}.",
+        "50-56": "Your senses are assailed as you travel beside a titanic multi-level spanning but low security @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.kXNQJ6Grz1wUysI6#recyc-sanctum-prime]{Recyc-Sanctum Prime}. It has been identified as an ideal place for serfs and gangers (particularly the labourer-aligned @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#scarred-hands]{Scarred Hands}) to engage in illicit gambling in off hours. Such recidivists might invite characters to join them, or even try to induct them into their gang, though games of chance often spill over into violence in the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.i7jK88CnFBdOtyRd]{Lower Hive}.",
+        "57-63": "Your travels take you along the vast, reeking bulk of an enormous @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-carnem]{Mercator Carnem} slaughterhouse. You cross paths with a convoy of @UUID[Compendium.impmal-core.items.Item.0DNYdNKKglMlFOko]{Imperial Fleet} stevedores dragging carts carrying nebulous goods towards the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.9IPqIrShmqynKuZc#the-void-buttress]{Void Buttress}. They eye armoured vehicles leaving the slaughterhouse hungrily as their overseer urges them onwards.",
+        "64-70": "After travelling past thousands of ascetic coffin-sized micro-homes, you find yourselves lost in the twisting tunnels of a labyrinthine habsprawl, unsure of which level of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.i7jK88CnFBdOtyRd]{Lower Hive} you are even on. The group must make a <b>Difficult (−10) Navigation</b> Test to get back on track. If more than half of the characters fail, they are accosted by a group of eight @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#block-24-96]{Block 24-96} Gangers who demand ‘rent’ for lingering in their turf.",
+        "71-77": "The cacophony of industry fades, replaced by the clamour of a busy market. Ramshackle stalls fill unused spaces between ceiling-scraping statues. Labour-serfs crowd the stands of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-dilaquo]{Mercator Dilaquo} and @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-carnem]{Carnem}, desperate for clean water and slivers of shredded meat. An @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} preacher castigates all of those gathered here for seeking any gifts beyond those naturally given by the God-Emperor and His mighty organisations. @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{Gangers} lurk nearby, ready to pilfer, coerce, or instigate a riot to serve their own ends.",
+        "78-84": "The group passes a @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-carnem]{Mercator Carnem} dispensary, emblazoned with their tardigrade crest, selling spiced meats at comparatively outrageous prices. If the characters tarry here for too long or openly buy any food, labourers may petition them for aid and alms — in all such circumstances, @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{gangers} will be watching to size the group up, and might ambush them later if they consider them to be particularly wealthy.",
+        "85-93": "You hear a blaring klaxon heralding a shift change, and a thousands-strong deluge of workers pours from a nearby manufactorum into an adjacent cathedrum. You are caught up in the crowd, near to an @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} preacher raised on a palanquin demanding that you perform your ‘pious labours’ in the cathedrum.",
+        "94-100": "As you navigate through a tangled maze of habways, you come upon a labourer scraping mould and sludgy effluent from the age-worn walls, singing a strange prayer under their breath. If the characters observe this individual, they see that they are periodically eating the vile substance when they think nobody is looking, and leave the habway through a rotten-looking ventilation shaft. They are a cultist of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.O9ywpWJIBMjj5GsS#cults-of-nurgle]{Nurgle} using the @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.pEgs07U5fEM0GDu6]{Infractionist} Warrenways to spread the disease cultivating inside them."
+      }
+    },
+    "Infractionist Personae - Role": {
+      "name": "Infractionist Personae - Role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Corpsedicer",
+        "2-2": "Cutter",
+        "3-3": "Data Forger",
+        "4-4": "Debt Binder",
+        "5-5": "Ganger Lord",
+        "6-6": "Hab Runner",
+        "7-7": "Scrip Forger",
+        "8-8": "Stubjack",
+        "9-9": "Tekthief",
+        "10-10": "Tithe-dodger"
+      }
+    },
+    "Adeptus Ministorum Personae - Role": {
+      "name": "Adeptus Ministorum Personae - Role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Battle Sister",
+        "2-2": "Chapel-Master",
+        "3-3": "Confessor",
+        "4-4": "Deacon",
+        "5-5": "Missionary",
+        "6-6": "Preacher",
+        "7-7": "Redemptionist",
+        "8-8": "Relic-Keeper",
+        "9-9": "Sister Novitiate",
+        "10-10": "Sister Superior"
+      }
+    },
+    "Adeptus Ministorum Personae - Attitude": {
+      "name": "Adeptus Ministorum Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Warm and friendly, unless they suspect heresy.",
+        "2-2": "Cold and haughty, thinks they are superior to all.",
+        "3-3": "Extremely naive, ignorant of the many existential threats to the Imperium.",
+        "4-4": "Vainglorious, their speech and gestures are as ostentatious as their robes.",
+        "5-5": "Unimaginative, unhelpful, fails to inspire their flock or impress superiors.",
+        "6-6": "Bombastic in battle, quiet and distant elsewhere. A veteran pilgrim.",
+        "7-7": "Dramatic, treats all matters as if the fate of the Imperium was at stake.",
+        "8-8": "Slowly examines what they hear for heresy, chooses their words just as carefully.",
+        "9-9": "Itching for a fight. Unapologetically desperate to face heresy head on.",
+        "10-10": "Seeks to find the good in all humans. Presses minor offenders to seek forgiveness."
+      }
+    },
+    "Frontier Settlement Whispers": {
+      "name": "Frontier Settlement Whispers",
+      "description": "<p><strong>Frontier Settlements:</strong> Worlds on the Imperium’s frontier are sparsely populated, though they strive to grow quickly — as no settlement would be there without good reason — be it next to a rare resource, strategic position, or for the sheer potential of charting the unknown. The people here must make do with limited resources and rarely receive visits from Imperium transports. Within these tight\u0002knit communities, rumours carry on the wind about the unexplored lands beyond, what might arrive on the next transport, or the lawlessness of their neighbours.</p>",
+      "results": {
+        "1-1": "<p><b>Supply Ship Due:</b> “I was a young girl when I  last saw an Imperial hauler. Oh, we celebrated  for days! I can’t wait — new faces and building  supplies will grow our home for the glory of the  Golden Throne.”</p>",
+        "2-2": "<p><b>Ore Discovery:</b> “Drinks on me tonight! I found  an ore vein this morning! Listen, if we play our  cards right, we can make a fortune before the  Cog-heads build a mine over it.”</p>",
+        "3-3": "<p><b>Strange Ruins:</b> “I don’t care if it’s only an hour’s  ride, I’m not going back! The dreams I had in  those ruins all came true, one after another, don’t  you see? It’s witchcraft!”</p>",
+        "4-4": "<p><b>Equipment Failure:</b> “The Omnissiah tests  our resourcefulness. Supplies to repair the  generatorium won’t arrive before winter. Either  we find an alternative, or there will be nobody  left to repair it in spring.”</p>",
+        "5-5": "<p><b>Lost Harvest:</b> “The Magus said ‘toxic fungal  infestation’. Dunno what that means but the  crops are poison now. Half the town will starve  to death in the next month if we don’t get help.”</p>",
+        "6-6": "<p><b>Raider Activity:</b> “Raiders is raiders, I didn’t  stop to ask if they was xenos! People, livestock,  equipment — they stole some of everything.  They’ll surely come back for more, soon enough.”</p>",
+        "7-7": "<p><b>Renegade Activity:</b> “Watch yourself if you’re  travelling, there’s deserters about. Who these  rogues can’t recruit, they kill and rob. Heretics  all, saying things was better before Saint  Macharius and the Crusade.”</p>",
+        "8-8": "<p><b>Cult Activity:</b> “The preacher says my brother’s  possessed, but he aint! Likes to talk to the  Emperor when he thinks no one’s around, but  isn’t that just praying? The preacher says he can  be exorcised, but I’ve never heard of anyone  surviving an experience like that…”</p>",
+        "9-9": "<p><b>Rogue Psyker:</b> “Officially, we banished her  from the colony. She lives alone in the hills now.  Unofficially, people sometimes visit her. They  usually return. <i>Usually</i>.”</p>",
+        "10-10": "<p><b>Strange Fauna:</b> “We’ve not seen these species  before. They all smell of brimstone or stranger  substances. Definitely not local. Continental,  maybe even interstellar migration? Be wary when  you’re around them!”</p>"
+      }
+    },
+    "Shrine City Whispers": {
+      "name": "Shrine City Whispers",
+      "description": "<p><strong>Shrine Cities:</strong> These cities are bastions of the Adeptus Ministorum. Relics of fallen heroes and saints of the Imperial Cult continue to stand vigil, while the devout enjoin endless prayers and maintain a continuous chorus of praise. While the faithful undertake pilgrimages to these holy places, the more devout dedicate their lives to studying and maintaining the records and sacred texts of the Adeptus Ministorum. Yet, under the grand facade of their polished statues and seemingly devout populace — Shrine Cities are still host to metropolitan disillusion and an abundance of unsavoury characters.</p>",
+      "results": {
+        "1-1": "<p><b>Upcoming Holy Day:</b> “Got plans for Saint’s day?  Heard pilgrims are coming in from Macharia  to head the celebrations. Governor’s trying to  get everything ready, but he’s an embarrassment  waiting to happen.”</p>",
+        "2-2": "<p><b>Heresy:</b> “Whole host of pilgrims failed obeisance  in front of the Cardinal. Their hand movements  and genuflections don’t follow proper doctrine.  The Ministorum’s itching to investigate.”</p>",
+        "3-3": "<p><b>Statuary Executions:</b> “A band of sneaky heretics  have been beheading statues in the night, all of  some long dead Militarum General. Enforcers have  begun posting guards, trying to catch them.</p>",
+        "4-4": "<p><b>Cathedral Construction:</b> “Once the expansions  are complete, this will be the largest cathedral on  the continent. Naturally, those unable to show  similar devotion are attempting to sabotage us.”</p>",
+        "5-5": "<p><b>Missing Relics:</b> “Bunch of relics have gone  missing, all tied to one saint. Some zealots are  saying that the relic’s disappearance means the  saint’s come back, but others say they’re the ones  who stole them in the first place!”</p>",
+        "6-6": "<p><b>Rogue Psyker:</b> “Some half-headed pilgrim’s been  talking to the local congregate, preaching that the  city’s doomed. Vigilites tried to arrest him, but  they all turned up dead, and the pilgrim escaped.”</p>",
+        "7-7": "<p><b>Ecclesiarchy Politics:</b> “Local Ministorum leaders  are fighting over who’s running the next high holy  day. It’s rumoured that brawls have broken out  over it — what improper behaviour!”</p>",
+        "8-8": "<p><b>Pilgrims Everywhere:</b> “We were never prepared  for this much foot-traffic. Pilgrims still arriving by  the day, and the city’s facilities are overloaded, all  to hear this Arch-confessor’s condemnations.”</p>",
+        "9-9": "<p><b>Inquisitorial Congregation:</b> “You hear there’s an  Inquisitor in the City? Some say they’re looking for  some major heresy. Others say they’re here to make  an obeisance and undergo ritual purification.”</p>",
+        "10-10": "<p><b>Zealot Purges:</b> “Zealots are taking matters into  their own hands, saying the Ministorum’s been lax  on rounding up heretics. Some say it was them that  burned down a whole hab block last night over  some blasphemous graffiti.”</p>"
+      }
+    },
+    "Administratum Personae - Role": {
+      "name": "Administratum Personae - Role",
+      "description": "",
+      "results": {
+        "1-1": "Adept Gradio",
+        "2-2": "Adept Logisticus",
+        "3-3": "Cipher",
+        "4-4": "Curator",
+        "5-5": "Literati Enforcer",
+        "6-6": "Menial",
+        "7-7": "Ordinate",
+        "8-8": "Prefectus",
+        "9-9": "Questor",
+        "10-10": "Scribe"
+      }
+    },
+    "Macharian Cargo Manifests": {
+      "name": "Macharian Cargo Manifests",
+      "description": "<p><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-fa210610-7fff-03cc-dcf0-022cc07ca96d\">Macharian Cargo Manifests</strong></span></p>",
+      "results": {
+        "1-5": "Airtight packs of dried phyto-kelp, from Goros Pok.",
+        "6-10": "Barrels of red wax for making official seals, from Macharia.",
+        "11-15": "Bottles of acrid stinking Synth Ink, from Asterion.",
+        "16-20": "Bottles of low-grade Amasec, from Crultus.",
+        "21-25": "Boxes of unloaded Stub Ammunition Shells, from Kallastin.",
+        "26-30": "Boxed skulls of a similar approximate size, from Res Vilissima.",
+        "31-35": "Cans of brined Cloud-Ray meat, from Harjus.",
+        "36-40": "Cartons of carefully packaged Yixtail Eggs, from Andosk.",
+        "41-45": "Metal cylinders of ethcantilal gases, from Tarang.",
+        "46-50": "Packets of individual Grey Rations, from unmarked origins.",
+        "51-55": "Racks of high-lux lumen strips, from Eskutchax.",
+        "56-60": "Reams of standardised vellum sheets, from Dao Teyras.",
+        "61-65": "Replacement limbs for Servitors, from Forkas-63.",
+        "66-70": "Sacks of Orza grains, from Varkassa.",
+        "71-75": "Sealed canisters of Promethium, from Kallastin.",
+        "76-80": "Spools of insulated copper wiring, from Ibal.",
+        "81-85": "Stuffed sacks of Rockcrete powder, from Leonova.",
+        "86-90": "Tins of dried and blended Recaf leaves, from  Persepolis.",
+        "91-95": "Tins of pickled Cervarch Root, from Paleon.",
+        "96-100": "Vials of various medicae unguents, from Voll."
+      }
+    },
+    "Inquisition Personae - role": {
+      "name": "Inquisition Personae - role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Acolyte",
+        "2-2": "Assassin",
+        "3-3": "Banisher",
+        "4-4": "Excoriator",
+        "5-5": "Exorcist",
+        "6-6": "Explicator",
+        "7-7": "Fanatic",
+        "8-8": "Interrogator",
+        "9-9": "Sage",
+        "10-10": "Warp-Seer"
+      }
+    },
+    "Infractionist Personae - Mannerism": {
+      "name": "Infractionist Personae - Mannerism",
+      "description": "<p>Mannerism</p>",
+      "results": {
+        "1-1": "Always resting one hand on a weapon.",
+        "2-2": "Regularly cracks their bones and knuckles.",
+        "3-3": "Cannot (or will not) make a proper sign of the Aquila.",
+        "4-4": "Extremely skittish, will jump at any sudden movement.",
+        "5-5": "Jingles loose coins or keys in their pocket.",
+        "6-6": "Makes horrible sucking noises with appallingly dirty teeth.",
+        "7-7": "Laughs nervously when in potentially (or obviously) threatening situations.",
+        "8-8": "Speaks between a truly dreadful constant cough, full of sucking, damp noises.",
+        "9-9": "Speaks in third person, as if watching themselves interact with the world.",
+        "10-10": "Hawks and spits on the ground to emphasise certain sentences."
+      }
+    },
+    "Adeptus Mechanicus Personae - Role": {
+      "name": "Adeptus Mechanicus Personae - Role",
+      "description": "<p>Role</p>",
+      "results": {
+        "1-1": "Arcanus",
+        "2-2": "Biocogitatus",
+        "3-3": "Biologis",
+        "4-4": "Cybersmith",
+        "5-5": "Electroid",
+        "6-6": "Enginseer",
+        "7-7": "Genetor Extremis",
+        "8-8": "Gerontocrat",
+        "9-9": "Metasurgeon",
+        "10-10": "Necromechanic"
+      }
+    },
+    "Adeptus Astra Telepathica Personae - Attitude": {
+      "name": "Adeptus Astra Telepathica Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Self-loathing and terrified of their “special gift”.",
+        "2-2": "Haughty, quick to remind characters of their power.",
+        "3-3": "Believes there is a hidden meaning in every interaction.",
+        "4-4": "Humble, pious, and obedient, like all citizens should be.",
+        "5-5": "Sarcastic and critical, but appreciative of those who work in morally grey areas.",
+        "6-6": "Possesses great knowledge but unused to conversation and speaks awkwardly.",
+        "7-7": "Strict and professional, well-aware of the dangers of relaxed socialising.",
+        "8-8": "Dismissive and bitter regarding the Imperium, yet bound by oaths to assist it.",
+        "9-9": "Barely paying attention with their thoughts half in the immaterium.",
+        "10-10": "Paranoid, suspicious of newcomers, relating events to their personal torments."
+      }
+    },
+    "Upper Hive Whispers": {
+      "name": "Upper Hive Whispers",
+      "description": "<p><strong>Upper Hives:</strong> Sandwiched between the lost dark zones and grimy manufactorums below, and the lofty spires of authority above, Upper Hive sectors act as an authoritative firebreak between Imperial classes. The people here enjoy greater comfort than most menial workers, in exchange for responsibilities in keeping the Hive functioning, and duties to isolate the nobility from the lowly masses. Yet the pressures from above and below can build over time —most Upper Hive citizens are fully aware of their precarious position in the hive’s pecking order.</p>",
+      "results": {
+        "1-1": "<p><b>Worker Numbers:</b> “You think it’s cramped now?  The workforce is still down since the last plague.  Wait until the Administratum relocates a few  million souls to make up the numbers.”</p>",
+        "2-2": "<p><b>Re-widowed:</b> “The Duchess is remarrying for the  ninth time. To lose one spouse is a tragedy, but to  have lost eight seems simply reckless.”</p>",
+        "3-3": "<p><b>Rationing:</b> “That fool Tech-priest was tipping  over herself at court to declare the hive was on  the brink of collapse. I’m so glad some of her kind  came to drag her away for her boorish outbursts.”</p>",
+        "4-4": "<p><b>High Fashion:</b> “You know Bertwell was showing  off those blasted xenos gems of hers again? Height  of fashion they may be, but I have the strangest  dreams after she attends court wearing them.”</p>",
+        "5-5": "<p><b>Hive Alliances:</b> “You know, I heard the Baron’s  scribes missed a loophole in their latest trade  agreement, making the whole thing worthless.  We’d be fools not to take advantage of it, especially  given his cousin’s snub of my wedding last year.”</p>",
+        "6-6": "<p><b>Purity:</b> “Have you seen the newest Declarion  scion presented to court last month? Of course  preserving the bloodlines is important, but some  are whispering the girl is practically a mutant!”</p>",
+        "7-7": "<p><b>Supply Chain:</b> “According to the Tech-priests  there’s a water shortage brewing in the hive.  Of course I’ve ensured the water supply for the  gardens will not be interrupted. We’ll simply  reroute water lines from the hab blocks.”</p>",
+        "8-8": "<p><b>Roots of Heresy:</b> “The Demi-Baron no longer  kneels in mass. Is he allowed to do that? First it  was just him, now dozens of nobles are just sitting  as the canticles are read. Why are they allowed?”</p>",
+        "9-9": "<p><b>Criminal Activity:</b> “Guilder Dupris claims that  idle workers have cut his production again this  year, but I’ve heard he’s been selling off supplies to  others at risk of missing their own tithes. Let him  know that, unless he extends us the same service,  the governor will hear of his indiscretions.”</p>",
+        "10-10": "<p><b>Pilgrimage Opportunities:</b> “The labourers under  my family’s purview petitioned for pilgrimage over  a century ago, and it just got approved this week.  I’ve no idea what my grandfather was thinking.  Perhaps the discovery of a few ‘heretics’ on the  factory floor will see their request delayed.”</p>"
+      }
+    },
+    "Noble Titles - Prefix": {
+      "name": "Noble Titles - Prefix",
+      "description": "<p>Prefix</p>",
+      "results": {
+        "1-1": "Arch",
+        "2-2": "Argent",
+        "3-3": "High",
+        "4-4": "Lady",
+        "5-5": "Lord",
+        "6-6": "Premier",
+        "7-7": "Prime",
+        "8-8": "Regent",
+        "9-9": "Sub",
+        "10-10": "The -"
+      }
+    },
+    "Imperium Gothic Descriptors": {
+      "name": "Imperium Gothic Descriptors",
+      "description": "<p>Imperium Gothic Descriptors</p>",
+      "results": {
+        "1-5": "A pristine skull covered in miniscule etchings of benedictions.",
+        "6-10": "A throng of candles, half neatly burnt out.",
+        "11-15": "Hanging reams of litany written on lengths of vellum.",
+        "16-20": "A vaulted enshrinement of a winged brass skull.",
+        "21-25": "An intricate mosaic depicting one of Saint Macharius’ many victories.",
+        "26-30": "A relief of Sanguinius, The Emperor’s Angel.",
+        "31-35": "A multi-panel fresco relating the early days of the Great Crusade.",
+        "36-40": "An altar of black marble, inlaid with golden skulls.",
+        "41-45": "A stained glass panel in the form of winged Astartes.",
+        "46-50": "Carvings depicting the God-Emperor as Father, Warrior, and Protector.",
+        "51-55": "A tapestry depicting the life of a minor Imperial Saint.",
+        "56-60": "An illuminated manuscript of High Gothic.",
+        "61-65": "Iron effigies of hooded figures, each holding a human bone.",
+        "66-70": "A thurible hangs, swinging and spewing heady incense.",
+        "71-75": "A relief showing local star constellations.",
+        "76-80": "A shield displaying a golden eagle head and wing.",
+        "81-85": "An Imperial Aquila cast in dark, hard steel, bearing battle scars.",
+        "86-90": "An ornate reliquary, covered in gold and jewels, contents long gone.",
+        "91-95": "Punishments for heresy written out on lengths of parchment.",
+        "96-100": "Stone hewn statuettes of Cherubim."
+      }
+    },
+    "Commissar’s Inspection": {
+      "name": "Commissar’s Inspection",
+      "description": "<p>Commissar’s Inspection</p>",
+      "results": {
+        "1-5": "“Your boots are tied in an unregulated manner.”",
+        "6-10": "“There’s dirt on the barrel of your weapon.”",
+        "11-15": "“There’s a stain on your trousers.”",
+        "16-20": "“The sights of your weapon are mis-aligned.\"",
+        "21-25": "“There’s dirt under your fingernails.”",
+        "26-30": "“You have a coward’s eyes.”",
+        "31-35": "“Your helmet strap is loose.”",
+        "36-40": "“Your Uplifting Primer is bent at the corner.”",
+        "41-45": "“Your mess kit is improperly packed.”",
+        "46-50": "“Your Munitorum-issue knife has a notch in it.”",
+        "51-55": "“Your breath smells like a sick grox.”",
+        "56-60": "“There is a wrinkle in your collar.”",
+        "61-65": "“There is a non-regulation prayer attached to your weapon.”",
+        "66-70": "“Your stance is as wide as a Sentinel’s. Tighten up!”",
+        "71-75": "“Your Uplifting Primer looks far too unblemished to have been properly read, soldier.”",
+        "76-80": "“The purity seal on your Lasgun has melted.”",
+        "81-85": "“You appear amused, soldier. What infraction am I not aware of?”",
+        "86-90": "“I’ve been informed that you have a special nickname for me, soldier?\"",
+        "91-95": "“Your belly’s sticking out like an Ogryn.”",
+        "96-100": "“Your spare power packs are not fully charged.”"
+      }
+    },
+    "Macharian Voidship Names - Name Stem": {
+      "name": "Macharian Voidship Names - Name Stem",
+      "description": "<p>Name Stem</p>",
+      "results": {
+        "1-1": "Baleful",
+        "2-2": "Cardinal",
+        "3-3": "Holy",
+        "4-4": "Immortal",
+        "5-5": "Invincible",
+        "6-6": "Invisible",
+        "7-7": "Lethal",
+        "8-8": "Magnificent",
+        "9-9": "Perpetual",
+        "10-10": "Scintillant"
+      }
+    },
+    "Rogue Trader Dynasty Personae - Distinguishing Feature": {
+      "name": "Rogue Trader Dynasty Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "The Dynasty’s coat of arms tattooed on their face.",
+        "2-2": "A shoddy copy of their Dynasty’s Warrant of Trade is proudly pinned to their hat.",
+        "3-3": "Their hair is ostentatiously styled, sporting several expensive adornments.",
+        "4-4": "They wear a golden mask depicting their family’s founder.",
+        "5-5": "They wear several heavy rings on each finger, which clink at every movement.",
+        "6-6": "Followed by a gold-plated Servo-Skull holding a tray with refreshments.",
+        "7-7": "Unsettling look in their eyes, looks haunted by the things they’ve seen.",
+        "8-8": "They are preceded by cherubic servitors spreading incense.",
+        "9-9": "Extremely gaudy dress sense, a riot of colours, fine fabrics, and decoration.",
+        "10-10": "Not one of their original teeth remains, having been replaced with gold, silver, or precious stones."
+      }
+    },
+    "Planetary Transport Whispers": {
+      "name": "Planetary Transport Whispers",
+      "description": "<p><strong>Planetary Transports:</strong> Movement between a planet’s various settlements and facilities typically depends upon mass transit systems. These include land trains, airships, and submersibles. These enormous vessels might take mere hours or lengthy days to reach their destinations — passengers have plenty of time to interact with each other; where people from opposite ends of the social strata may be forced to mingle in tight quarters. Whispers may be easily traded via idle tongues and sheer boredom, or in nervous anticipation of their journey’s end.</p>",
+      "results": {
+        "1-1": "<p><b>Missing Cargo:</b> “Passengers are kicking off about  valuables going missing from the holds. But it’s  all under lock and key. If anyone was actually  stealing, where would they put it all anyway?”</p>",
+        "2-2": "<p><b>Cult Activity:</b> “You can hear the chants if  you listen close enough, rattling through the  ventilation systems. No idea what they’re chanting  about, but I can’t get the rhythm out of my head.”</p>",
+        "3-3": "<p><b>Maintenance Issues:</b> “We’ve been doing our best  with what we’ve got to keep her running, but some  parts you just can’t fix. Deckhands think the ship’s  going to be decommissioned soon.”</p>",
+        "4-4": "<p><b>Labour Migration:</b> “Passenger compartments are  overcrowded with labourers getting reassigned to  new locations in the system. None of them are too  happy about getting shifted about.”</p>",
+        "5-5": "<p><b>Regional Megafauna:</b> “Birds as big as buildings,  I tell you! That’s what’s keeping us grounded.  This time every year they mess with our transit  windows. The guard’s not going to waste their  munitions on them.”</p>",
+        "6-6": "<p><b>Plague:</b> “Passengers on the bottom decks are  coughing and retching, all short of breath. I can  just smell the sickness in the air, can’t you? If it’s  still here when we get to port, the ship will be  quarantined, I have no doubt.”</p>",
+        "7-7": "<p><b>Lost Passengers:</b> “Checked the passenger manifest  at the start of my rotation, and there’s a bunch of  them unaccounted for. No-one knows who they  are either. Better find ‘em quick.”</p>",
+        "8-8": "<p><b>Signs of Heresy:</b> “Don’t look like any kind of  regular pilgrims to me, not like I’ve ever seen.  Half of them are totally wrapped up in bandages;  everyone’s saying they’ve got something to hide.”</p>",
+        "9-9": "<p><b>Colonisation Edict:</b> “The hold’s jam-packed with  folk that don’t want to be there. Mass conscripted,  all their lives uprooted and forced to colonise a  frontier world. They’ll make trouble for all of us,  sooner or later.”</p>",
+        "10-10": "<p><b>Renegade Activity:</b> “Changing course will add  more than a week to the journey; Captain’s taking  us past some anomaly, no matter what. The  Imperial Navy will escort us, I’m sure.”</p>"
+      }
+    },
+    "Adeptus Ministorum Personae - Distinguishing Feature": {
+      "name": "Adeptus Ministorum Personae - Distinguishing Feature",
+      "description": "<p>Distinguishing Feature</p>",
+      "results": {
+        "1-1": "Heavy keloid scarring across half their face.",
+        "2-2": "An Electroflail replaces their left forearm.",
+        "3-3": "The mark of the Aquila branded into their forehead.",
+        "4-4": "A prayer scroll nailed into their chest, the wound has not healed.",
+        "5-5": "A Servo-Skull follows them, swinging an incense thurible.",
+        "6-6": "Crudely sharpened teeth, causing their lips to continuously bleed.",
+        "7-7": "A flat and expansive nose, clearly broken many times over.",
+        "8-8": "A lit brazier is affixed to their head. They reek of scorched flesh.",
+        "9-9": "A flowing robe, displaying animated flames.",
+        "10-10": "A shrill and scratchy voice, caused by a malfunctioning vox-amplifier unit."
+      }
+    },
+    "Imperium Technobabble - Third Descriptor": {
+      "name": "Imperium Technobabble - Third Descriptor",
+      "description": "<p>Third Descriptor</p>",
+      "results": {
+        "1-1": "Armour",
+        "2-2": "Augment",
+        "3-3": "-carium",
+        "4-4": "Cogitator",
+        "5-5": "Construct",
+        "6-6": "Engine",
+        "7-7": "Field",
+        "8-8": "Manifold",
+        "9-9": "Relay",
+        "10-10": "Vault"
+      }
+    },
+    "Fumble": {
+      "name": "Fumble",
+      "description": "<p>Fumble for Starter set</p>",
+      "results": {
+        "1-2": "<p>You flail inelegantly, and take a few crucial seconds to reassert a defensible stance. You fall to the bottom of  the Initiative order on the next Round.</p>",
+        "3-4": "<p>A poorly controlled swing or shot causes you to lurch and drop your weapon. You drop the weapon you used  to attack. Anyone in Immediate Range can pick it up with an Action.</p>",
+        "5-6": "<p>You stumble due to an unwieldy swing or unexpected recoil. You fall <i>Prone</i>.</p>",
+        "7-8": "<p>Your ungainly attack manages to briefly blind or deafen you. Perhaps you overloaded a plasma weapon,  causing a searing burst of light, used a Loud weapon too close to your ear, or clumsily struck your own eye  when your attack ricocheted. Your are <i>Blinded</i> or <i>Deafened</i>, whichever is determined more appropriate for your weapon by the GM.</p>",
+        "9-10": "<p>In the fumbling confusion of battle, you manage to clumsily strike yourself with a glancing blow. You are  either <i>Stunned</i> or <i>Bleeding</i>, whichever is determined more appropriate for your weapon by the GM.</p>"
+      }
+    },
+    "Archivium Whispers": {
+      "name": "Archivium Whispers",
+      "description": "<p><strong>Archiviums:</strong> The Macharian Sector’s records are stored in vast and secure facilities, scattered about the whole sector. Here, autoquills and cogitators constantly analyse and duplicate documentation for long-term storage. There is always plenty of foot traffic coming and going from Archiviums, as people request and supply documentation, or meet with Administratum agents for interviews; idle talk keenly following in their wake. Rumours can spread from the loose lipped scribes, overworked Adepts, or the abundance of bored visitants.</p>",
+      "results": {
+        "1-1": "<p><b>Inquisitorial Investigation</b>: “Archive 312-Kappa  is a mess! Some interlopers left records lying  everywhere or missing entirely! I can’t even file a  complaint about the perpetrators, their security  codes mark them as Inquisitorial agents.”</p>",
+        "2-2": "<p><b>Lost Fleet</b>: “Oh, you find these now and then in  the archives. They say more than one fleet was lost  during the Macharian Crusade, their astropaths  suddenly falling silent after a warp transition. File  it with all the other ‘pending reply’ reports...”</p>",
+        "3-3": "<p><b>Rogue Trader Activity</b>: “These Trade Dynasties  ignore the economic turmoil left in their wake.  Their negligent record keeping will take years to  fix! Market upheaval! Political instability!”</p>",
+        "4-4": "<p><b>Famine</b>: “An almost planet-wide famine. Millions  have surely starved, but we cannot simply reroute  supplies from elsewhere. It may be needed for  battlefronts. Besides, the paperwork is incomplete.”</p>",
+        "5-5": "<p><b>Xenos Activity</b>: “Priority reports of xenos raids  must be accompanied by corroborating forms  signed by the Militarum officer authorising the  counter-response. Those worlds must rely on their  faith in the God-Emperor for now.”</p>",
+        "6-6": "<p><b>Renegades</b>: “Had the requests been processed  correctly, these sub-sector shortages would have  pointed to the world preparing to rebel. But I  heard some scribe lost them, and lost a world  along with them!”</p>",
+        "7-7": "<p><b>Unpaid Tithes</b>: “Ah yes, a filing error led to the  world’s Tithe going uncollected for three centuries.  Several generations of soldiers, in need of a war.  Well, the sector’s generals will be pleased.”</p>",
+        "8-8": "<p><b>Unexpected Surplus</b>: “Every ship in the sector is  full, and there’s still a ration surplus. If we don’t  find more space, the rest will rot in silos, and  discontent will spread through the farmers’ ranks  like wildfire!”</p>",
+        "9-9": "<p><b>Forgotten System</b>: “There’s no mention of the  system in any official maps. It might be a filing  error. It might have been struck from records on  pain of death. I’m not finding out which!”</p>",
+        "10-10": "<p><b>Damaged Records</b>: “Oh, Archive 1313-Sigma.  Tragic loss. Priceless records damaged by vermin.  Decontamination protocols somehow missed the  infestation. If you ask me, it was an inside job.”</p>"
+      }
+    },
+    "Voidship Deck Whispers": {
+      "name": "Voidship Deck Whispers",
+      "description": "<p><strong>Voidship Decks:</strong> A voidship could include the vessels of the Imperial Navy (merchant and military), those captained by Rogue Traders, or even simpler transports or haulers. Many voidcraft have been in service for millennia, with crews who have served aboard for generations. Even travellers sometimes spend decades on a single transit. Through this time, each vessel develops its own culture and personality, while passengers and crew adapt to the cramped conditions — it’s never long before everyone knows some piece of information about anyone aboard.</p>",
+      "results": {
+        "1-1": "<p><b>Warp Eruptions:</b> “I hate this system. The warp  spewed its vileness here not long ago. We’re not  making any transitions, but pray twice as hard all  the same, lest that vileness get any ideas.”</p>",
+        "2-2": "<p><b>Gang Activity:</b> “Don’t venture into the lowest  service level. Gangs of outcast crew down there,  cannibals and worse. Fix problems from the deck  above or leave it be, for all our sakes.”</p>",
+        "3-3": "<p><b>Cult Activity:</b> “Some of the crew have a get-together after every warp transit. Kind of a  tradition. They swap stories and say which prayers  or rites helped get them through.”</p>",
+        "4-4": "<p><b>Xenos Activity:</b> “Gun crews say they didn’t look  like Imperial ships. They followed us all through  the system. Never got the order to fire. The captain  knows something we don’t.”</p>",
+        "5-5": "<p><b>Spoiled Provisions:</b> “Blasted vermin got into the  food storage, contaminated everything but the gray  rations. Strict rationing until we resupply. Even the  officers are eating it unflavoured.”</p>",
+        "6-6": "<p><b>Cargo Activity:</b> “Someone’s been damaging  cargo. Security saw nothing. Stowaways, maybe?  Deckhand with a grudge? Sooner or later, they’ll  damage something the officers care about, then  their heads will roll.”</p>",
+        "7-7": "<p><b>Engine Instability:</b> “Cog-heads say the main  engine is angry, stopping and starting, can’t be  placated until we dock. Long trip ahead, and God-Emperor help us if we get attacked without thrust.”</p>",
+        "8-8": "<p><b>Pirate Activity:</b> “Pirates have been getting worse  where we’re headed. The moment we leave the Sea  of Souls, keep one hand on your weapon and pray  we don’t get noticed.”</p>",
+        "9-9": "<p><b>Strange Stowaways:</b> “The Geller Field sprung a  leak last warp transition, now there’s hundreds  of deck labourers mucking about that no one can  remember. They seem to be doing their jobs… but  I just don’t trust them.”</p>",
+        "10-10": "<p><b>Rogue Psyker:</b> “That rating will be promoted  within the week. Years in the background, then  they finally speak up and they could persuade an  Ork to bathe. Command staff ’s darling since the  last warp transition.”</p>"
+      }
+    },
+    "Rogue Trader Dynasty Personae - Attitude": {
+      "name": "Rogue Trader Dynasty Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Eager for excitement, likely to leap to conclusions or impulsive strategies.",
+        "2-2": "Headstrong, always trying to goad people into making bets with them.",
+        "3-3": "Almost offensively pompous, arrogant, and flirtatious in equal measure.",
+        "4-4": "Dull and unsociable, but very keen and experienced regarding financial matters.",
+        "5-5": "Friendly, but not totally sane, occasionally speaks in rhyme or metaphor.",
+        "6-6": "Is suspicious of puritanical imperials, knowing much about xenos cultures.",
+        "7-7": "Deeply pious, all their conversations come out sounding like a sermon.",
+        "8-8": "Always complaining about the cost of something, mostly deemed expensive.",
+        "9-9": "Melodramatic to a fault — all is a glorious triumph or mournful tragedy.",
+        "10-10": "Absolutely mercenary, will not cooperate without payment, monetary or otherwise."
+      }
+    },
+    "Imperial Navy Personae - Attitude": {
+      "name": "Imperial Navy Personae - Attitude",
+      "description": "<p>Attitude</p>",
+      "results": {
+        "1-1": "Dutiful and diligent, but very curious and nosy.",
+        "2-2": "Uptight, stuffy, and by-the-book.",
+        "3-3": "Cynical and gruff, prefers to help those who don’t go by the book.",
+        "4-4": "Resentful of superiors and talks behind their backs — loyal to everyone else.",
+        "5-5": "Generally lazy and unreliable for time-sensitive tasks.",
+        "6-6": "Miserable, spiteful, goes out of their way to be unhelpful.",
+        "7-7": "A schemer, looking for any way to climb their vessel’s political ladder.",
+        "8-8": "A genuinely cheerful personality, untouched by the horror of war.",
+        "9-9": "Melancholy and subdued, avoids topics or errands where loss of life is likely.",
+        "10-10": "Insufferably confident in their particular skills, rarely acknowledges the talents of others."
+      }
+    },
+    "Gothic Gibberish": {
+      "name": "Gothic Gibberish",
+      "description": "<p>Gothic Gibberish</p>",
+      "results": {
+        "1-1": "Ul",
+        "2-2": "Ave",
+        "3-3": "Vult",
+        "4-4": "Praes",
+        "5-5": "Ashe",
+        "6-6": "Officio",
+        "7-7": "Justus",
+        "8-8": "Medicae",
+        "9-9": "Profundi",
+        "10-10": "Dominae",
+        "11-11": "Ae",
+        "12-12": "Axis",
+        "13-13": "Logi",
+        "14-14": "Cypra",
+        "15-15": "Mias",
+        "16-16": "Mortis",
+        "17-17": "Galaxis",
+        "18-18": "Ahkutay",
+        "19-19": "Hereticus",
+        "20-20": "Apocalyptus",
+        "21-21": "Ad",
+        "22-22": "Vol",
+        "23-23": "Cant",
+        "24-24": "Xenos",
+        "25-25": "Terra",
+        "26-26": "Noctis",
+        "27-27": "Ultima",
+        "28-28": "Nobilitae",
+        "29-29": "Perditum",
+        "30-30": "Ministorum",
+        "31-31": "Et",
+        "32-32": "Per",
+        "33-33": "Prio",
+        "34-34": "Luxur",
+        "35-35": "Navis",
+        "36-36": "Malleus",
+        "37-37": "Corpus",
+        "38-38": "Machar",
+        "39-39": "Imperator",
+        "40-40": "Gargantua",
+        "41-41": "Est",
+        "42-42": "Astra",
+        "43-43": "Naus",
+        "44-44": "Victis",
+        "45-45": "Justa",
+        "46-46": "Optima",
+        "47-47": "Signor",
+        "48-48": "Absentia",
+        "49-49": "Legionis",
+        "50-50": "Mechanicus",
+        "51-51": "Arx",
+        "52-52": "Polis",
+        "53-53": "Arpe",
+        "54-54": "Inter",
+        "55-55": "Aveat",
+        "56-56": "Gladius",
+        "57-57": "Stricto",
+        "58-58": "Genetor",
+        "59-59": "Malevolus",
+        "60-60": "Exterminatus",
+        "61-61": "Vox",
+        "62-62": "Ante",
+        "63-63": "Unm",
+        "64-64": "Lubri",
+        "65-65": "Magos",
+        "66-66": "Militae",
+        "67-67": "Capita",
+        "68-68": "Lectitio",
+        "69-69": "Censorium",
+        "70-70": "Omnissiah",
+        "71-71": "Vae",
+        "72-72": "Post",
+        "73-73": "Vers",
+        "74-74": "Diem",
+        "75-75": "Jovian",
+        "76-76": "Anima",
+        "77-77": "Domini",
+        "78-78": "Aeterna",
+        "79-79": "Probatii",
+        "80-80": "Senetus",
+        "81-81": "Pax",
+        "82-82": "Omni",
+        "83-83": "Iori",
+        "84-84": "Homi",
+        "85-85": "Coram",
+        "86-86": "Imperi",
+        "87-87": "Mortem",
+        "88-88": "Divinatus",
+        "89-89": "Prefectus",
+        "90-90": "Abominus",
+        "91-91": "De",
+        "92-92": "Bona",
+        "93-93": "Lias",
+        "94-94": "Avit",
+        "95-95": "Verum",
+        "96-96": "Bastus",
+        "97-97": "Chari",
+        "98-98": "Soleum",
+        "99-99": "Cognitae",
+        "100-100": "Sororitas"
+      }
+    },
+    "Hive Spire Encounters": {
+      "name": "Hive Spire Encounters",
+      "description": "<p>Scenery and Events</p><p></p>",
+      "results": {
+        "1-7": "You notice the colossal buttresses nearby conglomerate with some of the holdings of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#taj]{House Taj} in a tangled mess of gothic architecture that terminates in a private landing pad. An Aquila Lander pierces the rancid smog clouds and lands. The disembarking delegation from the @UUID[JournalEntry.WE1MLa1KVRHMD8wJ.JournalEntryPage.P8rukYyQeyPJ1ubs]{Imperial Navy} make the sign of the Aquila to the attendant Highborn of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#taj]{House Taj}.",
+        "8-14": "A procession honouring the @UUID[Compendium.impmal-core.journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-conquests]{Macharian Crusade} fills the broad street between some of the holdings of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#halvor-mott]{House Halvor-Mott} and a cathedrum. A relic of Saint Macharius — a single, stained glove apparently worn once by the Lord Solar — is held aloft by an @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} preacher.",
+        "15-21": "A gargantuan plasma conduit fills half of the broad @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.lydNVBL1CeXU15kz]{Spire} path before you, sparking slightly as two Tech-Priests work in perfect synchronisation to perform a strange ritual.",
+        "22-28": "A @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilite} drags what appears to be a screaming Highborn through an open street, surrounded on all sides by the faded grandeur of the habs of minor nobles. This scenario offers plenty of options for duplicity and adventure — what if the characters rescue this Highborn? Are they truly Highborn, or merely an impostor? Conversely, what if the @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilite} is a fraud? Perhaps they are a ganger attempting to abduct and ransom a noble scion?",
+        "29-35": "You pass beneath the grim gaze of a gargantuan statue of a skull-faced Rokarthian warrior, clearly ancient and weathered despite signs of consistent attempts at repairs. A small crowd forms around the statue as several pious young Highborn from the major noble houses attempt the 'Spire Summit', an untethered climb to repair the statue that is considered a mark of honour. If the characters do not intervene, only three scions die — far fewer than the year prior.",
+        "36-42": "You emerge from a corridor of towering spires into the open courtyard of a colossal cathedrum. Representatives of noble houses sit beneath acid-resistant parasols as a group of @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} preachers lead a penitent ceremony. Their attendants are sent to accept castigation by the priests in their stead.",
+        "43-49": "As you navigate a complex tangle of buttress-bridges, you come across a palanquin borne by a pair of struggling servitors that seem intent on carrying their charge to the holdings of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#parnam]{House Parnam}. If inspected, the palanquin has a single occupant — a rotting carcass in noble attire who seems to have been dead for days.",
+        "50-56": "As you traverse a grand rockrete staircase around a spire, a group of apparently intoxicated nobles practically fall into you, appearing out of the smog. They shout that they will pay a fortune to anyone willing to guide them into the lowest depths of the hive, but initially they will not state why.",
+        "57-63": "You emerge from a maze of vertical pathways into a minor courtyard. A nervous crowd surrounds two elderly scions of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#kalveo]{Houses Kalveo} and @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi]{Vylathi} as they square off and hurl insults at one another, preparing to duel.  As Gamemaster, you might decide the Highborn scions are from different noble houses, whatever best suits your game. They might even ask the characters to fight on their behalf, earning them Influence with one noble house and the ire of the other. You can use the @UUID[Compendium.impmal-starter-set.actors.Actor.bB0rMr6Gez3M9bME]{Ganger} stat-block of [i]The Blazing Seraph[/i] adventure book to represent the Highborn duelists if needed.",
+        "64-70": "As the characters make their way through a seemingly abandoned habway connected to one of the Spire’s titanic buttresses, they must all make a [b]Routine (+20) Reflexes (Dodge)[/b] Test or suffer 1 Wound — labour-serfs sworn to @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx} are in the process of demolishing this area to make way for a 1,000-foot tall statue of Saint Macharius. Shortly afterwards, you encounter a Tech-Priest and an @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum} Preacher arguing with a scion of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx} about the project.",
+        "71-77": "As you navigate through a labyrinthine conurbation of gothic Spire-habs, you encounter an individual who stares at you with absent eyes. You notice they are wearing the robes of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-astra-telepathica]{Adeptus Astra Telepathica} — an Astropath — and turn away from you to speak to a minor scion of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#kalveo]{House Kalveo}.",
+        "78-84": "You exit a twisting system of pathways suspended from buttresses to find yourselves in a partially open-air cathedrum of breathtaking size. You hear the crack of @UUID[Compendium.impmal-starter-set.items.Item.8tlu4X5Qpzl98Uye]{Lasgun} fire as a ceremony of remembrance is held by the @UUID[JournalEntry.pVOsgxlhuYl8D1IJ.JournalEntryPage.ZRtK93OqwboVMET3#adeptus-ministorum]{Adeptus Ministorum}. Representatives of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#taj]{Houses Taj} and @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#halvor-mott]{Halvor-Mott} are in attendance. During the ceremony, preachers add a drop of gathered rainwater to a 100-foot-wide fountain, representing the loss of a single life. This fountain is full to the brim, almost overflowing.",
+        "85-91": "Your group exits a sequence of tunnels constructed by the overhanging gothic architecture of Highborn sanctums to come upon an open market with overwhelmingly well-armed security intermingling with the wealthy patrons. You notice a team of @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-administratum]{Adeptus Administratum} inspectors examining every market stall and attendee to ensure they have the proper papers.",
+        "92-98": "As you make your way across a buttress-bridge between two Spire towers, several squads of strangely dressed voidsmen push you aside. You see a woman wearing ostentatious wargear stride quickly through the path cleared by her entourage, hurrying alongside a servitor bearing a chained metal box.",
+        "99-100": "Your group are lost in the smog, turned around in a labyrinth of faded grandeur and skyscraping spires. You blunder into a walled garden filled with corkscrewing acid-resistant mushrooms in an oil-spill rainbow of colours. Amongst these fungi is Lepis of the @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.O9ywpWJIBMjj5GsS#the-upper-hand]{Upper Hand}, who offers the characters a few diaphanous pieces of extremely sour fungi and an invite to gamble at his establishment in the Steeple District."
+      }
+    }
+  }
+}

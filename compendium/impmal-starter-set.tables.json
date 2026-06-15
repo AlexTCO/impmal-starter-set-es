@@ -1,5 +1,11 @@
 {
   "label": "Tablas (Starter Set)",
+  "mapping": {
+    "results": {
+      "path": "results",
+      "converter": "tableResults"
+    }
+  },
   "folders": {
     "Astra Militarum Personae": "Personajes del Astra Militarum",
     "Imperium Technobabble": "Tecnobabla del Imperio",

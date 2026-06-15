@@ -1,0 +1,147 @@
+{
+  "label": "Items (Starter Set)",
+  "folders": {
+    "Equipment": "Equipment",
+    "Augmetics": "Augmetics",
+    "Protection": "Protection",
+    "Adventure": "Adventure",
+    "Weapons": "Weapons"
+  },
+  "entries": {
+    "Frag Grenade": {
+      "name": "Frag Grenade"
+    },
+    "Rebreather": {
+      "name": "Rebreather"
+    },
+    "Glow-Globe/Stablight": {
+      "name": "Glow-Globe/Stablight"
+    },
+    "Armourer’s Hot-Shot Lasgun": {
+      "name": "Armourer’s Hot-Shot Lasgun"
+    },
+    "Stub Pistol": {
+      "name": "Stub Pistol"
+    },
+    "Lasgun": {
+      "name": "Lasgun"
+    },
+    "Autopistol": {
+      "name": "Autopistol"
+    },
+    "Chrono": {
+      "name": "Chrono"
+    },
+    "Shock Maul": {
+      "name": "Shock Maul"
+    },
+    "Augmetic Nose": {
+      "name": "Augmetic Nose"
+    },
+    "Flak Gauntlets": {
+      "name": "Flak Gauntlets"
+    },
+    "Blasting Charge": {
+      "name": "Blasting Charge"
+    },
+    "Augmetic Eye": {
+      "name": "Augmetic Eye"
+    },
+    "Fire Bomb": {
+      "name": "Fire Bomb"
+    },
+    "Lascutter": {
+      "name": "Lascutter"
+    },
+    "Genestealer Mutation": {
+      "name": "Genestealer Mutation"
+    },
+    "Brass Knuckles": {
+      "name": "Brass Knuckles"
+    },
+    "Heavy Leathers": {
+      "name": "Heavy Leathers"
+    },
+    "Shotgun (Pump Action)": {
+      "name": "Shotgun (Pump Action)"
+    },
+    "Filtration Plugs": {
+      "name": "Filtration Plugs"
+    },
+    "Augmetic Leg": {
+      "name": "Augmetic Leg"
+    },
+    "Flak Helmet": {
+      "name": "Flak Helmet"
+    },
+    "Armourer’s Webber": {
+      "name": "Armourer’s Webber"
+    },
+    "Stummer": {
+      "name": "Stummer"
+    },
+    "Respirator/Gas Mask": {
+      "name": "Respirator/Gas Mask"
+    },
+    "Sword": {
+      "name": "Sword"
+    },
+    "Flamer": {
+      "name": "Flamer"
+    },
+    "Augmetic Ear": {
+      "name": "Augmetic Ear"
+    },
+    "Flak Vest": {
+      "name": "Flak Vest"
+    },
+    "Flak Jacket": {
+      "name": "Flak Jacket"
+    },
+    "Grapnel Launcher": {
+      "name": "Grapnel Launcher"
+    },
+    "Flak Boots": {
+      "name": "Flak Boots"
+    },
+    "Laspistol": {
+      "name": "Laspistol"
+    },
+    "Armourer’s Plasma Gun": {
+      "name": "Armourer’s Plasma Gun"
+    },
+    "Smoke Grenade": {
+      "name": "Smoke Grenade"
+    },
+    "Autogun": {
+      "name": "Autogun"
+    },
+    "Webber": {
+      "name": "Webber"
+    },
+    "Holy Icon": {
+      "name": "Holy Icon"
+    },
+    "Knife": {
+      "name": "Knife"
+    },
+    "Chirurgeon's Kit (5 uses)": {
+      "name": "Chirurgeon's Kit (5 uses)"
+    },
+    "Pict Recorder": {
+      "name": "Pict Recorder"
+    },
+    "Chainsword": {
+      "name": "Chainsword"
+    },
+    "Stub Revolver": {
+      "name": "Stub Revolver"
+    },
+    "Armourer’s Flamer": {
+      "name": "Armourer’s Flamer"
+    },
+    "Augmetic Arm": {
+      "name": "Augmetic Arm"
+    }
+  }
+}

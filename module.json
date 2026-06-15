@@ -1,0 +1,53 @@
+{
+  "id": "impmal-starter-set-es",
+  "title": "Imperium Maledictum - Starter Set (Castellano)",
+  "description": "Traducción al castellano del módulo Starter Set de Imperium Maledictum para Foundry VTT.",
+  "version": "1.0.3",
+  "authors": [
+    {
+      "name": "AlexTCO",
+      "url": "https://github.com/AlexTCO",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "minimum": "2.9.1"
+        }
+      },
+      {
+        "id": "impmal-starter-set",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "impmal",
+        "type": "system"
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "url": "https://github.com/AlexTCO/impmal-starter-set-es",
+  "manifest": "https://raw.githubusercontent.com/AlexTCO/impmal-starter-set-es/main/module.json",
+  "download": "https://github.com/AlexTCO/impmal-starter-set-es/archive/refs/heads/main.zip"
+}

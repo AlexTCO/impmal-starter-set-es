@@ -1,0 +1,79 @@
+{
+  "label": "Escenas (Starter Set)",
+  "folders": {},
+  "entries": {
+    "The Upper-Hive": {
+      "name": "La colmena superior",
+      "notes": {
+        "Generatorum": "Generatorum",
+        "Maglev Nexus": "Nexo de levitación magnética",
+        "Administratum Censorium": "Censorium del Administratum",
+        "Aparthotel Rokarth Medicae Facility": "Apartotel e instalaciones Medicae de Rokarth",
+        "Basilica Administratum": "Basilica del Administratum",
+        "Cathedrum of Enduring Purpose": "Cathedrum del proposito perdurable",
+        "Fortress Sublime": "Comisaría fortaleza Majoris",
+        "Habsprawl XI": "Habsprawl XI",
+        "Sanctum of Enduring Purpose": "Sanctum del Proposito perdurable",
+        "The Adamantine Arch": "The Adamantine Arch",
+        "The Hanging Veil": "The Hanging Veil",
+        "Void Buttress": "El contrafuerte de Vacío",
+        "The Copper Cathedrum": "The Copper Cathedrum"
+      }
+    },
+    "The Bowels": {
+      "name": "Las entrañas",
+      "notes": {
+        "Generatorium": "Generatorium",
+        "Maglev Nexus": "Nexo de levitación magnética",
+        "Sumphaven": "Sumphaven",
+        "The Lean-To": "El cobertizo",
+        "The Pit": "El foso",
+        "The Stilt-fleet": "La flota zancuda",
+        "The Unsea": "El mar inferior",
+        "Thermal Warning": "Alerta térmica",
+        "Convexum Fungi & Stagnum": "Convexum Fungi y Stagnum",
+        "Cutter Parts": "Piezas cortadas",
+        "House Castyx Outpost": "House Castyx Outpost",
+        "Burning Hands Outpost": "Burning Hands Outpost"
+      }
+    },
+    "Rokarth": {
+      "name": "Rokarth"
+    },
+    "The Lower-Hive": {
+      "name": "La colmena inferior",
+      "notes": {
+        "Generatorum": "Generatorum",
+        "Maglev Nexus": "Nexo de levitación magnética",
+        "Medicae Facility Aselepiades": "Instalaciones del Medicae Aselepiades",
+        "Basilicanum": "Basilicanum",
+        "Cathedrum of Cleansing Light": "Cathedrum de su luz purificadora",
+        "Cathedrum of Obligatory Modesty": "Cathedrum of Obligatory Modesty",
+        "Cathedrum of the Emperor's Purity": "Cathedrum del pudor imperativo",
+        "Cathedrum of Rationed Beneficence": "Cathedrum de la beneficiencia racionada",
+        "Datamil District": "Barrio procesadatos",
+        "Eskandarian Etchings": "Eskandarian Etchings",
+        "Habsprawl 4": "Habsprawl 4",
+        "Detention Centre Lomaris-77": "Centro de detención Lomaris-77",
+        "Reconstitutory & Slug Exchange": "Centro reconstituyente y mercado de munición",
+        "Rustless Blade": "La cuchilla inoxidable"
+      }
+    },
+    "The Spire": {
+      "name": "La cúspide",
+      "notes": {
+        "Maglev Nexus": "Nexo de levitación magnética",
+        "Generatorum": "Generatorum",
+        "House Castyx": "Palacio Castyx",
+        "House Nethecaré": "La colmena de bronce",
+        "House Taj": "La casa de campo",
+        "House Vylathi": "La hacienda Vylathi",
+        "Forge-Fane Incalcos-6": "Forjamarchita Incalcos-6",
+        "Mirah's Curatives": "Mirah's Curatives",
+        "The Baronet's Web": "The Baronet's Web",
+        "Vollian Astropathic Relay The Crystalline Reflectory": "El refrector Cristalino",
+        "The Resounding Cathedrum": "El Cathedrum Resonante"
+      }
+    }
+  }
+}

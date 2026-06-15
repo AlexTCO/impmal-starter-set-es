@@ -1,0 +1,1000 @@
+{
+  "label": "Actors (Starter Set)",
+  "folders": {
+    "Bestiary": "Bestiary",
+    "Patron": "Patron",
+    "Players": "Players"
+  },
+  "entries": {
+    "Idolon": {
+      "name": "Idolon",
+      "tokenName": "Idolon",
+      "items": {
+        "Pistols": {
+          "name": "Pistols"
+        },
+        "Hide": {
+          "name": "Hide"
+        },
+        "Ever Vigilant": {
+          "name": "Ever Vigilant"
+        },
+        "Secret Identity": {
+          "name": "Secret Identity"
+        },
+        "Skulker": {
+          "name": "Skulker"
+        },
+        "Chrono": {
+          "name": "Chrono"
+        },
+        "Comm Leech": {
+          "name": "Comm Leech"
+        },
+        "Disguise Kit": {
+          "name": "Disguise Kit"
+        },
+        "Photo-Visors/Contacts": {
+          "name": "Photo-Visors/Contacts"
+        },
+        "Vox-Caster": {
+          "name": "Vox-Caster"
+        },
+        "Sniper Rifle": {
+          "name": "Sniper Rifle"
+        },
+        "Autopistol (Silenced)": {
+          "name": "Autopistol (Silenced)"
+        },
+        "Armoured Bodyglove": {
+          "name": "Armoured Bodyglove"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Sniper Rifle Ammo": {
+          "name": "Sniper Rifle Ammo"
+        },
+        "Autopistol (Silenced) Ammo": {
+          "name": "Autopistol (Silenced) Ammo"
+        }
+      }
+    },
+    "Wilkus Garn": {
+      "name": "Wilkus Garn",
+      "tokenName": "Wilkus",
+      "items": {
+        "Sight": {
+          "name": "Sight"
+        },
+        "People": {
+          "name": "People"
+        },
+        "Inquiry": {
+          "name": "Inquiry"
+        },
+        "Air of Authority": {
+          "name": "Air of Authority"
+        },
+        "Data Delver": {
+          "name": "Data Delver"
+        },
+        "Dealmaker": {
+          "name": "Dealmaker"
+        },
+        "Overseer": {
+          "name": "Overseer"
+        },
+        "Ugly Augmetic Eye": {
+          "name": "Ugly Augmetic Eye"
+        },
+        "Dataslate": {
+          "name": "Dataslate"
+        },
+        "Pict Recorder": {
+          "name": "Pict Recorder"
+        },
+        "Filtration Plugs": {
+          "name": "Filtration Plugs"
+        },
+        "Micro-Bead/Vox Bead": {
+          "name": "Micro-Bead/Vox Bead"
+        },
+        "Writing Kit": {
+          "name": "Writing Kit"
+        },
+        "Laspistol": {
+          "name": "Laspistol"
+        },
+        "Laspistol Ammo": {
+          "name": "Laspistol Ammo"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Robes (worn)": {
+          "name": "Robes (worn)"
+        }
+      }
+    },
+    "Accursed Torment": {
+      "name": "Accursed Torment",
+      "tokenName": "Accursed Torment",
+      "items": {
+        "Psyniscience": {
+          "name": "Psyniscience"
+        },
+        "*Emergent Daemon": {
+          "name": "*Emergent Daemon"
+        },
+        "Fearsome": {
+          "name": "Fearsome"
+        },
+        "Source of Corruption": {
+          "name": "Source of Corruption"
+        },
+        "Unnatural Regeneration": {
+          "name": "Unnatural Regeneration"
+        },
+        "Hideous Mutations (Razor Claw)": {
+          "name": "Hideous Mutations (Razor Claw)"
+        },
+        "Hideous Mutations (Toxic Haemorrhage)": {
+          "name": "Hideous Mutations (Toxic Haemorrhage)"
+        },
+        "Hideous Mutations (Wretched Maw)": {
+          "name": "Hideous Mutations (Wretched Maw)"
+        },
+        "Hideous Mutations": {
+          "name": "Hideous Mutations"
+        }
+      }
+    },
+    "Hastil Starn": {
+      "name": "Hastil Starn",
+      "tokenName": "Hastil",
+      "items": {
+        "Psyniscience": {
+          "name": "Psyniscience"
+        },
+        "Psychic": {
+          "name": "Psychic"
+        },
+        "Interrogation": {
+          "name": "Interrogation"
+        },
+        "Deception": {
+          "name": "Deception"
+        },
+        "Spiritual Leader": {
+          "name": "Spiritual Leader"
+        },
+        "Broodmind Psyker": {
+          "name": "Broodmind Psyker"
+        },
+        "Warp Threshold": {
+          "name": "Warp Threshold"
+        },
+        "Autopistol": {
+          "name": "Autopistol"
+        },
+        "10d10 solars": {
+          "name": "10d10 solars"
+        },
+        "Smite": {
+          "name": "Smite"
+        },
+        "Mind Control": {
+          "name": "Mind Control"
+        },
+        "Magus Blodagger": {
+          "name": "Magus Blodagger"
+        },
+        "Magus Stave": {
+          "name": "Magus Stave"
+        }
+      }
+    },
+    "Scribus Magda Jorrgensen": {
+      "name": "Scribus Magda Jorrgensen",
+      "tokenName": "Magda",
+      "items": {
+        "On the Take": {
+          "name": "On the Take"
+        },
+        "Data Delver": {
+          "name": "Data Delver"
+        },
+        "Brass Knuckles": {
+          "name": "Brass Knuckles"
+        },
+        "several Scrolls and  Quills": {
+          "name": "several Scrolls and  Quills"
+        },
+        "Seal of Office": {
+          "name": "Seal of Office"
+        },
+        "Chrono": {
+          "name": "Chrono"
+        },
+        "100 solars": {
+          "name": "100 solars"
+        },
+        "Administratum robes": {
+          "name": "Administratum robes"
+        }
+      }
+    },
+    "The Armourer": {
+      "name": "The Armourer",
+      "tokenName": "The Armourer",
+      "items": {
+        "Augmetic Heart": {
+          "name": "Augmetic Heart"
+        },
+        "Pay with Sanity": {
+          "name": "Pay with Sanity"
+        },
+        "Utility Mechadendrite": {
+          "name": "Utility Mechadendrite"
+        },
+        "Plasma Pistol": {
+          "name": "Plasma Pistol"
+        },
+        "Refractor Field": {
+          "name": "Refractor Field"
+        },
+        "50 solars": {
+          "name": "50 solars"
+        },
+        "Improvised (Two-handed)": {
+          "name": "Improvised (Two-handed)"
+        },
+        "Tattered Hooded Robes": {
+          "name": "Tattered Hooded Robes"
+        },
+        "Auspex": {
+          "name": "Auspex"
+        },
+        "Dataslate with heretical schematics": {
+          "name": "Dataslate with heretical schematics"
+        },
+        "Combi-Tool": {
+          "name": "Combi-Tool"
+        }
+      }
+    },
+    "Scribe Master Lou": {
+      "name": "Scribe Master Lou",
+      "tokenName": "Master Lou",
+      "items": {
+        "Bureaucratic Boldness": {
+          "name": "Bureaucratic Boldness"
+        },
+        "Data Delver": {
+          "name": "Data Delver"
+        },
+        "Preserve the Records": {
+          "name": "Preserve the Records"
+        },
+        "Plasma Pistol": {
+          "name": "Plasma Pistol"
+        },
+        "Electro-Flail": {
+          "name": "Electro-Flail"
+        },
+        "Seal of Office": {
+          "name": "Seal of Office"
+        },
+        "Chrono": {
+          "name": "Chrono"
+        },
+        "500 solars": {
+          "name": "500 solars"
+        },
+        "Administratum robes": {
+          "name": "Administratum robes"
+        },
+        "Dataslate": {
+          "name": "Dataslate"
+        }
+      }
+    },
+    "Mordecai Vreel": {
+      "name": "Mordecai Vreel",
+      "tokenName": "Mordecai",
+      "items": {
+        "Genestealer Mutation": {
+          "name": "Genestealer Mutation"
+        },
+        "Auto Pistol": {
+          "name": "Auto Pistol"
+        },
+        "5d10 solars": {
+          "name": "5d10 solars"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Autopistol": {
+          "name": "Autopistol"
+        },
+        "Cutting Torch": {
+          "name": "Cutting Torch"
+        }
+      }
+    },
+    "Skir": {
+      "name": "Skir",
+      "tokenName": "Skir",
+      "items": {
+        "Climbing": {
+          "name": "Climbing"
+        },
+        "Brawling": {
+          "name": "Brawling"
+        },
+        "Intimidation": {
+          "name": "Intimidation"
+        },
+        "Pistols": {
+          "name": "Pistols"
+        },
+        "Genestealer Mutation": {
+          "name": "Genestealer Mutation"
+        },
+        "Helping Hand": {
+          "name": "Helping Hand"
+        },
+        "Autopistol": {
+          "name": "Autopistol"
+        },
+        "5d10 solars": {
+          "name": "5d10 solars"
+        },
+        "Hide": {
+          "name": "Hide"
+        },
+        "Claws": {
+          "name": "Claws"
+        },
+        "Cult Bonesword": {
+          "name": "Cult Bonesword"
+        },
+        "Heavy Saw": {
+          "name": "Heavy Saw"
+        }
+      }
+    },
+    "Cultist": {
+      "name": "Cultist",
+      "tokenName": "Cultist",
+      "items": {
+        "Forbidden (Various)": {
+          "name": "Forbidden (Various)"
+        },
+        "Deception": {
+          "name": "Deception"
+        },
+        "Sanity is for the Weak": {
+          "name": "Sanity is for the Weak"
+        },
+        "Autogun": {
+          "name": "Autogun"
+        },
+        "Autopistol": {
+          "name": "Autopistol"
+        },
+        "Sword": {
+          "name": "Sword"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "20 Solars": {
+          "name": "20 Solars"
+        }
+      }
+    },
+    "Sister Helza Scorn": {
+      "name": "Sister Helza Scorn",
+      "tokenName": "Helza",
+      "items": {
+        "Theology": {
+          "name": "Theology"
+        },
+        "One-handed": {
+          "name": "One-handed"
+        },
+        "Faithful (imperial Cult)": {
+          "name": "Faithful (imperial Cult)"
+        },
+        "Frenzy": {
+          "name": "Frenzy"
+        },
+        "Icon Bearer": {
+          "name": "Icon Bearer"
+        },
+        "Holy Icon": {
+          "name": "Holy Icon"
+        },
+        "Laud Hailer": {
+          "name": "Laud Hailer"
+        },
+        "Micro-Bead/Vox Bead": {
+          "name": "Micro-Bead/Vox Bead"
+        },
+        "Writing Kit": {
+          "name": "Writing Kit"
+        },
+        "Hand Flamer": {
+          "name": "Hand Flamer"
+        },
+        "Hand Flamer Ammo": {
+          "name": "Hand Flamer Ammo"
+        },
+        "Chainsword": {
+          "name": "Chainsword"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Robes": {
+          "name": "Robes"
+        },
+        "Breastplate": {
+          "name": "Breastplate"
+        },
+        "Robes (In backpack)": {
+          "name": "Robes (In backpack)"
+        }
+      }
+    },
+    "Kalli Tannerin": {
+      "name": "Kalli Tannerin",
+      "tokenName": "Kalli",
+      "items": {
+        "One-handed": {
+          "name": "One-handed"
+        },
+        "Long Guns": {
+          "name": "Long Guns"
+        },
+        "Deadeye": {
+          "name": "Deadeye"
+        },
+        "Drilled": {
+          "name": "Drilled"
+        },
+        "Tactical Movement": {
+          "name": "Tactical Movement"
+        },
+        "Backpack/Slings": {
+          "name": "Backpack/Slings"
+        },
+        "Laspistol": {
+          "name": "Laspistol"
+        },
+        "Lasgun": {
+          "name": "Lasgun"
+        },
+        "Sword": {
+          "name": "Sword"
+        },
+        "Astra Militarum Flak Armour": {
+          "name": "Astra Militarum Flak Armour"
+        },
+        "Frag Grenade": {
+          "name": "Frag Grenade"
+        },
+        "Survival Gear": {
+          "name": "Survival Gear"
+        },
+        "Micro-Bead/Vox Bead": {
+          "name": "Micro-Bead/Vox Bead"
+        },
+        "Lasgun Ammo": {
+          "name": "Lasgun Ammo"
+        },
+        "Laspistol Ammo": {
+          "name": "Laspistol Ammo"
+        }
+      }
+    },
+    "Macharian Vigilite": {
+      "name": "Macharian Vigilite",
+      "tokenName": "Vigilite",
+      "items": {
+        "One-handed": {
+          "name": "One-handed"
+        },
+        "Interrogation": {
+          "name": "Interrogation"
+        },
+        "Intimidation": {
+          "name": "Intimidation"
+        },
+        "Call for Backup": {
+          "name": "Call for Backup"
+        },
+        "Incarceratus": {
+          "name": "Incarceratus"
+        },
+        "Shock Maul": {
+          "name": "Shock Maul"
+        },
+        "Stub Revolver": {
+          "name": "Stub Revolver"
+        },
+        "Web Pistol": {
+          "name": "Web Pistol"
+        },
+        "50 solars": {
+          "name": "50 solars"
+        },
+        "Vox Bead": {
+          "name": "Vox Bead"
+        },
+        "Manacles": {
+          "name": "Manacles"
+        },
+        "Dataslate": {
+          "name": "Dataslate"
+        },
+        "Enforcer Carapace": {
+          "name": "Enforcer Carapace"
+        }
+      }
+    },
+    "Aegidius Halikarn": {
+      "name": "Aegidius Halikarn",
+      "tokenName": "Halikarn",
+      "items": {
+        "Limitless Authority": {
+          "name": "Limitless Authority"
+        },
+        "Fearsome Reputation": {
+          "name": "Fearsome Reputation"
+        },
+        "Sanctum Obscurus": {
+          "name": "Sanctum Obscurus"
+        },
+        "Abrupt": {
+          "name": "Abrupt"
+        },
+        "Demands Discretion": {
+          "name": "Demands Discretion"
+        },
+        "Paranoid": {
+          "name": "Paranoid"
+        }
+      }
+    },
+    "Imperial Citizen": {
+      "name": "Imperial Citizen",
+      "tokenName": "Citizen",
+      "items": {
+        "Unarmed": {
+          "name": "Unarmed"
+        },
+        "Holy Icon": {
+          "name": "Holy Icon"
+        },
+        "1d10 solars": {
+          "name": "1d10 solars"
+        },
+        "Ragged clothing": {
+          "name": "Ragged clothing"
+        }
+      }
+    },
+    "Artisan Hailon Epsilon Vorn": {
+      "name": "Artisan Hailon Epsilon Vorn",
+      "tokenName": "Hailon",
+      "items": {
+        "Biomechanical Interface": {
+          "name": "Biomechanical Interface"
+        },
+        "Utility Mechadendrite": {
+          "name": "Utility Mechadendrite"
+        },
+        "Laspistol": {
+          "name": "Laspistol"
+        },
+        "100 solars": {
+          "name": "100 solars"
+        },
+        "Combi-Tool": {
+          "name": "Combi-Tool"
+        },
+        "Auspex": {
+          "name": "Auspex"
+        },
+        "Adeptus Mechanicus Robes": {
+          "name": "Adeptus Mechanicus Robes"
+        },
+        "Improvised (Two-handed)": {
+          "name": "Improvised (Two-handed)"
+        }
+      }
+    },
+    "Arch-deacon Artosy": {
+      "name": "Arch-deacon Artosy",
+      "tokenName": "Artosy",
+      "items": {
+        "Human": {
+          "name": "Human"
+        },
+        "High Gothic": {
+          "name": "High Gothic"
+        },
+        "True Faith": {
+          "name": "True Faith"
+        },
+        "Sacred Chant": {
+          "name": "Sacred Chant"
+        },
+        "Bolt Pistol": {
+          "name": "Bolt Pistol"
+        },
+        "Power Maul": {
+          "name": "Power Maul"
+        },
+        "Carapace Chestplate": {
+          "name": "Carapace Chestplate"
+        },
+        "Holy Icon": {
+          "name": "Holy Icon"
+        },
+        "Reliquary": {
+          "name": "Reliquary"
+        },
+        "500 solars": {
+          "name": "500 solars"
+        },
+        "Laud Hailer": {
+          "name": "Laud Hailer"
+        },
+        "People": {
+          "name": "People"
+        }
+      }
+    },
+    "Ganger": {
+      "name": "Ganger",
+      "tokenName": "Ganger",
+      "items": {
+        "Ambusher": {
+          "name": "Ambusher"
+        },
+        "Home Turf": {
+          "name": "Home Turf"
+        },
+        "Autogun": {
+          "name": "Autogun"
+        },
+        "Stub Pistol": {
+          "name": "Stub Pistol"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Heavy Leathers": {
+          "name": "Heavy Leathers"
+        },
+        "Gang Colours": {
+          "name": "Gang Colours"
+        },
+        "Filtration Plugs": {
+          "name": "Filtration Plugs"
+        },
+        "1d10 solars": {
+          "name": "1d10 solars"
+        }
+      }
+    },
+    "Casseum Calibus": {
+      "name": "Casseum Calibus",
+      "tokenName": "Calibus",
+      "items": {
+        "Sight": {
+          "name": "Sight"
+        },
+        "Human": {
+          "name": "Human"
+        },
+        "Engineering": {
+          "name": "Engineering"
+        },
+        "Chirurgeon": {
+          "name": "Chirurgeon"
+        },
+        "Attentive Assistant": {
+          "name": "Attentive Assistant"
+        },
+        "Laspistol": {
+          "name": "Laspistol"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Robes": {
+          "name": "Robes"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Augmetic Respiratory System"
+        },
+        "Augmetic Eye": {
+          "name": "Augmetic Eye"
+        },
+        "Chirurgeon's Kit (5 uses)": {
+          "name": "Chirurgeon's Kit (5 uses)"
+        },
+        "Vox-Caster": {
+          "name": "Vox-Caster"
+        },
+        "Laspistol Ammo": {
+          "name": "Laspistol Ammo"
+        }
+      }
+    },
+    "Jaspar Castyx": {
+      "name": "Jaspar Castyx",
+      "tokenName": "Governor Castyx",
+      "items": {
+        "Fulfil the Tithe": {
+          "name": "Fulfil the Tithe"
+        },
+        "Authority of Voll": {
+          "name": "Authority of Voll"
+        },
+        "Servants!": {
+          "name": "Servants!"
+        },
+        "Bolt Pistol": {
+          "name": "Bolt Pistol"
+        },
+        "Power Sword": {
+          "name": "Power Sword"
+        },
+        "Chrono": {
+          "name": "Chrono"
+        },
+        "1000 solars": {
+          "name": "1000 solars"
+        },
+        "Refractor Field": {
+          "name": "Refractor Field"
+        },
+        "Dataslate": {
+          "name": "Dataslate"
+        },
+        "Carapace Chestplate": {
+          "name": "Carapace Chestplate"
+        },
+        "Formal Uniform": {
+          "name": "Formal Uniform"
+        },
+        "Bolt Pistol Ammo": {
+          "name": "Bolt Pistol Ammo"
+        }
+      }
+    },
+    "Leo 'wink' Rantz": {
+      "name": "Leo 'wink' Rantz",
+      "tokenName": "Leo",
+      "items": {
+        "Familiar Terrain": {
+          "name": "Familiar Terrain"
+        },
+        "Rokarth Native": {
+          "name": "Rokarth Native"
+        },
+        "Stolen Augmetic": {
+          "name": "Stolen Augmetic"
+        },
+        "Autopistol": {
+          "name": "Autopistol"
+        },
+        "Brass Knuckles": {
+          "name": "Brass Knuckles"
+        },
+        "Filtration Plugs": {
+          "name": "Filtration Plugs"
+        },
+        "5 solars": {
+          "name": "5 solars"
+        },
+        "Hive Rokarth": {
+          "name": "Hive Rokarth"
+        },
+        "Vox Bead": {
+          "name": "Vox Bead"
+        },
+        "Light Leathers": {
+          "name": "Light Leathers"
+        }
+      }
+    },
+    "Hex-sigma Numenon": {
+      "name": "Hex-sigma Numenon",
+      "tokenName": "Hex-sigma",
+      "items": {
+        "One-handed": {
+          "name": "One-handed"
+        },
+        "Biomechanical Interface": {
+          "name": "Biomechanical Interface"
+        },
+        "Mostly Augmetic": {
+          "name": "Mostly Augmetic"
+        },
+        "Optical Mechadendrite": {
+          "name": "Optical Mechadendrite"
+        },
+        "Utility Mechadendrite": {
+          "name": "Utility Mechadendrite"
+        },
+        "Inferno Pistol": {
+          "name": "Inferno Pistol"
+        },
+        "400 solars": {
+          "name": "400 solars"
+        },
+        "Auspex": {
+          "name": "Auspex"
+        },
+        "Combi-Tool": {
+          "name": "Combi-Tool"
+        },
+        "Adeptus Mechanicus Robes": {
+          "name": "Adeptus Mechanicus Robes"
+        }
+      }
+    },
+    "Reeta Von Mard": {
+      "name": "Reeta Von Mard",
+      "tokenName": "Reeta",
+      "items": {
+        "Psyniscience": {
+          "name": "Psyniscience"
+        },
+        "Telekinesis": {
+          "name": "Telekinesis"
+        },
+        "Condemn The Witch": {
+          "name": "Condemn The Witch"
+        },
+        "Fated": {
+          "name": "Fated"
+        },
+        "Jinx": {
+          "name": "Jinx"
+        },
+        "Twist Fate": {
+          "name": "Twist Fate"
+        },
+        "Psyker": {
+          "name": "Psyker"
+        },
+        "Smite": {
+          "name": "Smite"
+        },
+        "Sanctioned Psyker": {
+          "name": "Sanctioned Psyker"
+        },
+        "Psy Focus": {
+          "name": "Psy Focus"
+        },
+        "Emperor's Tarot": {
+          "name": "Emperor's Tarot"
+        },
+        "Micro-Bead/Vox Bead": {
+          "name": "Micro-Bead/Vox Bead"
+        },
+        "Laspistol": {
+          "name": "Laspistol"
+        },
+        "Laspistol Ammo": {
+          "name": "Laspistol Ammo"
+        },
+        "Mono-Knife": {
+          "name": "Mono-Knife"
+        },
+        "Robes (worn)": {
+          "name": "Robes (worn)"
+        }
+      }
+    },
+    "Gang Lieutenant Blister": {
+      "name": "Gang Lieutenant Blister",
+      "tokenName": "Blister",
+      "items": {
+        "Ambusher": {
+          "name": "Ambusher"
+        },
+        "Cowardly Lieutenant": {
+          "name": "Cowardly Lieutenant"
+        },
+        "Repurposed Augmetics": {
+          "name": "Repurposed Augmetics"
+        },
+        "Unstable Hand Cannon": {
+          "name": "Unstable Hand Cannon"
+        },
+        "Webber": {
+          "name": "Webber"
+        },
+        "Augmetic Warp Claw": {
+          "name": "Augmetic Warp Claw"
+        },
+        "Heavy Leathers": {
+          "name": "Heavy Leathers"
+        },
+        "Filtration Plugs": {
+          "name": "Filtration Plugs"
+        },
+        "Gang  Colours": {
+          "name": "Gang  Colours"
+        },
+        "150 solars": {
+          "name": "150 solars"
+        },
+        "Fear": {
+          "name": "Fear"
+        }
+      }
+    },
+    "Accursed Torment Psyker": {
+      "name": "Accursed Torment Psyker",
+      "tokenName": "Accursed Psyker",
+      "items": {
+        "Psyniscience": {
+          "name": "Psyniscience"
+        },
+        "Psychic": {
+          "name": "Psychic"
+        },
+        "Forbidden (Various)": {
+          "name": "Forbidden (Various)"
+        },
+        "Disgustingly Resilient": {
+          "name": "Disgustingly Resilient"
+        },
+        "Fearsome": {
+          "name": "Fearsome"
+        },
+        "Malefic Psyker": {
+          "name": "Malefic Psyker"
+        },
+        "Call Vermin": {
+          "name": "Call Vermin"
+        },
+        "Jinx": {
+          "name": "Jinx"
+        },
+        "Smite": {
+          "name": "Smite"
+        },
+        "Twist Fate": {
+          "name": "Twist Fate"
+        },
+        "Compel": {
+          "name": "Compel"
+        },
+        "Dominate": {
+          "name": "Dominate"
+        },
+        "Mutated Flesh": {
+          "name": "Mutated Flesh"
+        },
+        "Warp Threshold": {
+          "name": "Warp Threshold"
+        },
+        "Hideous Mutations": {
+          "name": "Hideous Mutations"
+        }
+      }
+    }
+  }
+}
